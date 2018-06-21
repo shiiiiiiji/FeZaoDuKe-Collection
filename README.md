@@ -1,3 +1,5 @@
+- 2018-06-21@佚名 [做前端的，薪资真的有那么高吗？（零基础-精通资料，限额免费送）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229011&idx=1&sn=0e09ca268acc59b86e6d5800d1962e46#wechat_redirect)
+- 2018-06-21@TomPrestonWerner [【第1308期】语义化版本控制规范（SemVer）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229011&idx=2&sn=c42a8b881d1162c1501728072137e4d2#wechat_redirect)
 - 2018-06-20@佚名 [【福利】使用 webpack 定制前端开发环境小册](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651228998&idx=1&sn=51aef90ecb7eab3148d1f86bfc140677#wechat_redirect)
 - 2018-06-20@Champin [【第1307期】理解TCP/IP三次握手与四次挥手的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651228998&idx=2&sn=e11975673a4cd4fcddb02480455d5489#wechat_redirect)
 - 2018-06-19@Scott [【第1306期】GraphQL聚合层解放前后端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651228970&idx=1&sn=6b8621ce9fb434a549e221e4b05704c7)
