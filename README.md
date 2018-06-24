@@ -1,3 +1,5 @@
+- 2018-06-24@龙佳文 [【第1311期】浅析前端安全之 XSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229034&idx=1&sn=e05cd113bf615b4e1a34d6e22e7c8115#wechat_redirect)
+- 2018-06-24@情封 [【招聘】美团智能支付大前端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229034&idx=2&sn=d7786753b7168d9d7a129a5b6e66ac84#wechat_redirect)
 - 2018-06-23@Mello_fe [【第1310期】ES2018（ES9）的新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229031&idx=1&sn=eea9e04908ce2aa521705de26eb19576#wechat_redirect)
 - 2018-06-22@极客时间 [为什么要从众多的前端框架中选择React?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229023&idx=1&sn=fc511bc5ab897200bf5d090d87c1f825#wechat_redirect)
 - 2018-06-22@unravel [【第1309期】nuxt缓存实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229023&idx=2&sn=6e8a4f6a6ffe8eba6b44169ce6979f94#wechat_redirect)
