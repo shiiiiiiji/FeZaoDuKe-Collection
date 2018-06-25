@@ -1,3 +1,5 @@
+- 2018-06-25@网易云课堂 [岗位需求量一骑绝尘的Web前端开发，今日带你免费入门！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229050&idx=1&sn=8677609f375f9dd05ce89ea85bf2230c#wechat_redirect)
+- 2018-06-25@David Ng [【第1312期】Node.js开发之父：十个Node.js的设计错误以及其终极解决办法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229050&idx=2&sn=dbae7e301d2c4e368ae0e1c4063a6eb3#wechat_redirect)
 - 2018-06-24@龙佳文 [【第1311期】浅析前端安全之 XSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229034&idx=1&sn=e05cd113bf615b4e1a34d6e22e7c8115#wechat_redirect)
 - 2018-06-24@情封 [【招聘】美团智能支付大前端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229034&idx=2&sn=d7786753b7168d9d7a129a5b6e66ac84#wechat_redirect)
 - 2018-06-23@Mello_fe [【第1310期】ES2018（ES9）的新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229031&idx=1&sn=eea9e04908ce2aa521705de26eb19576#wechat_redirect)
