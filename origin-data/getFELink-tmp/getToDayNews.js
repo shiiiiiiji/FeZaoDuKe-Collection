@@ -63,8 +63,9 @@ function _request(index) {
         if (!error && response.statusCode == 200) {
             console.timeEnd(index);
             var $ = cheerio.load(body);
-            var author = $('span.rich_media_meta_text').text() || $('span.rich_media_meta_text').text().trim();
-            result[index].author = author;
+            var author = $('#js_preview_reward_author_name').text() || $('#js_preview_reward_author_name').text().trim();
+            var author2 = $('#meta_content > span.rich_media_meta.rich_media_meta_text').innerText;
+            result[index].author = author || author2;
             index++;
             if (index === result.length) {
                 // console.log(result);

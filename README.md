@@ -1,3 +1,5 @@
+- 2018-06-28@佚名 [10年web前端工程师自白：web前端开发如何从入门到不放弃](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229082&idx=1&sn=8bccbe46b117e93c23493e3ea8fc0eec#wechat_redirect)
+- 2018-06-28@邓若奇 [【第1315期】GraphQL 基于 SPA 架构的工程实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229082&idx=2&sn=74ae1184603b0081cbac7d6a14c1959d#wechat_redirect)
 - 2018-06-27@hijiangtao [【第1314期】JavaScript 引擎基础：Shapes 和 Inline Caches](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229066&idx=1&sn=98a502809916a7262c4ac5f359647aa6#wechat_redirect)
 - 2018-06-27@情封 [【招聘】杭州网易考拉招高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229066&idx=2&sn=c15f472c164beb054afa4ad16415f0b7#wechat_redirect)
 - 2018-06-26@情封 [【活动】2018天津WEB前端技术交流会](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1529969383&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=%2AwFA04DoHbr0P138OR8vqyK-nTOD4KjyMETIqgRD7kPsGKubh%2AHldLxoX%2ADhw8tY9shLg3BGI1dKnyWvJpjVroAOACxMOlYtt1uMap147DJGpcNFQuUUZ%2AVDWahvtEppmo43bA787mj9HERjf6Lyk1mOScyM5Xh5QKlPsSp2DVA%3D&id=1000000711)
