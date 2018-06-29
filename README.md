@@ -1,3 +1,5 @@
+- 2018-06-29@彭伟春 [【第1316期】大前端时代前端监控的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229089&idx=1&sn=aed65865da4e75f0348e3298c0b5c5e5#wechat_redirect)
+- 2018-06-29@佚名 [【图书】PWA实战：面向下一代的Progressive Web APP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229089&idx=2&sn=f724c8beee7b4b06e12abc7fa08f9ec7#wechat_redirect)
 - 2018-06-28@佚名 [10年web前端工程师自白：web前端开发如何从入门到不放弃](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229082&idx=1&sn=8bccbe46b117e93c23493e3ea8fc0eec#wechat_redirect)
 - 2018-06-28@邓若奇 [【第1315期】GraphQL 基于 SPA 架构的工程实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229082&idx=2&sn=74ae1184603b0081cbac7d6a14c1959d#wechat_redirect)
 - 2018-06-27@hijiangtao [【第1314期】JavaScript 引擎基础：Shapes 和 Inline Caches](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229066&idx=1&sn=98a502809916a7262c4ac5f359647aa6#wechat_redirect)
