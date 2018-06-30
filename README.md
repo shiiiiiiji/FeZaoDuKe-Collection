@@ -1,3 +1,5 @@
+- 2018-06-30@冉余 [【第1317期】在 web 上使用 JavaScript 模块](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229099&idx=1&sn=20381b0dc9a59b406d526e263b76f060#wechat_redirect)
+- 2018-06-30@情封 [【送书】2018下半年，你的书单可以加一本了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229099&idx=2&sn=a84bc80ad0ed6e482eb6c94774b87e3c#wechat_redirect)
 - 2018-06-29@彭伟春 [【第1316期】大前端时代前端监控的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229089&idx=1&sn=aed65865da4e75f0348e3298c0b5c5e5#wechat_redirect)
 - 2018-06-29@佚名 [【图书】PWA实战：面向下一代的Progressive Web APP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229089&idx=2&sn=f724c8beee7b4b06e12abc7fa08f9ec7#wechat_redirect)
 - 2018-06-28@佚名 [10年web前端工程师自白：web前端开发如何从入门到不放弃](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229082&idx=1&sn=8bccbe46b117e93c23493e3ea8fc0eec#wechat_redirect)
