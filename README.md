@@ -1,3 +1,4 @@
+- 2018-07-02@杨力 [【第1319期】deno深入揭秘及未来展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229109&idx=1&sn=6b28c3edb64a3e261b3de09cecbaec37#wechat_redirect)
 - 2018-07-01@老教授 [【第1318期】深入浅出 JavaScript 关键词 -- this](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229103&idx=1&sn=3627db879f759f4355730879c148ef38#wechat_redirect)
 - 2018-06-30@冉余 [【第1317期】在 web 上使用 JavaScript 模块](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229099&idx=1&sn=20381b0dc9a59b406d526e263b76f060#wechat_redirect)
 - 2018-06-30@情封 [【送书】2018下半年，你的书单可以加一本了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229099&idx=2&sn=a84bc80ad0ed6e482eb6c94774b87e3c#wechat_redirect)
