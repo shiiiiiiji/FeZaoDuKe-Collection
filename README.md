@@ -1,3 +1,5 @@
+- 2018-07-04@佚名 [程序员职业小白书 —— 如何规划和经营你的职业](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229127&idx=1&sn=f785c9ad293c1a9ebdb81a57a8ec05cd#wechat_redirect)
+- 2018-07-04@孙辉 [【第1321期】SVG滤镜对图片调色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229127&idx=2&sn=d2425acd604e84220bbe1c558f3c6ba0#wechat_redirect)
 - 2018-07-03@陈达孚 [【第1320期】你不知道的前端SDK开发技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229117&idx=1&sn=c6d5e619d81583fd8ac1833518a2fe8f#wechat_redirect)
 - 2018-07-03@佚名 [【招聘】贝壳找房（链家平台升级）商铺事业部前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229117&idx=2&sn=ff67e35c8e838e253d3c991e957e8fc9#wechat_redirect)
 - 2018-07-02@杨力 [【第1319期】deno深入揭秘及未来展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229109&idx=1&sn=6b28c3edb64a3e261b3de09cecbaec37#wechat_redirect)
