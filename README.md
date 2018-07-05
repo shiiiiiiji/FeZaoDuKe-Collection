@@ -1,3 +1,5 @@
+- 2018-07-05@冷旭 [【第1322期】Vue CLI 3 配置中 Modern mode 是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229135&idx=1&sn=be6817e118895e0ecf4201ba8b9f6128#wechat_redirect)
+- 2018-07-05@情封 [【招聘】工作还是梦想？前端早读课内推直达蚂蚁金服](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229135&idx=2&sn=22e2d226700869fdb1480d0fb92cc98f#wechat_redirect)
 - 2018-07-04@佚名 [程序员职业小白书 —— 如何规划和经营你的职业](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229127&idx=1&sn=f785c9ad293c1a9ebdb81a57a8ec05cd#wechat_redirect)
 - 2018-07-04@孙辉 [【第1321期】SVG滤镜对图片调色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229127&idx=2&sn=d2425acd604e84220bbe1c558f3c6ba0#wechat_redirect)
 - 2018-07-03@陈达孚 [【第1320期】你不知道的前端SDK开发技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229117&idx=1&sn=c6d5e619d81583fd8ac1833518a2fe8f#wechat_redirect)
