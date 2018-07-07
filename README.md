@@ -1,3 +1,4 @@
+- 2018-07-07@PeterZ [【第1324期】如何像个程序员一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229144&idx=1&sn=688a72ebb72b0e728890f44e21d235dd#wechat_redirect)
 - 2018-07-06@UncleChen [【第1323期】揭开JS无埋点技术的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229139&idx=1&sn=87a5ca30df9a7dc69ad21c9778e07ab7#wechat_redirect)
 - 2018-07-05@冷旭 [【第1322期】Vue CLI 3 配置中 Modern mode 是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229135&idx=1&sn=be6817e118895e0ecf4201ba8b9f6128#wechat_redirect)
 - 2018-07-05@情封 [【招聘】工作还是梦想？前端早读课内推直达蚂蚁金服](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229135&idx=2&sn=22e2d226700869fdb1480d0fb92cc98f#wechat_redirect)
