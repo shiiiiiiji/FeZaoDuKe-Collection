@@ -1,3 +1,4 @@
+- 2018-07-08@PeterZ [【第1325期】以开发的视角做设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229148&idx=1&sn=56a919a266742bdadfee8751514b087a#wechat_redirect)
 - 2018-07-07@PeterZ [【第1324期】如何像个程序员一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229144&idx=1&sn=688a72ebb72b0e728890f44e21d235dd#wechat_redirect)
 - 2018-07-06@UncleChen [【第1323期】揭开JS无埋点技术的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229139&idx=1&sn=87a5ca30df9a7dc69ad21c9778e07ab7#wechat_redirect)
 - 2018-07-05@冷旭 [【第1322期】Vue CLI 3 配置中 Modern mode 是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229135&idx=1&sn=be6817e118895e0ecf4201ba8b9f6128#wechat_redirect)
