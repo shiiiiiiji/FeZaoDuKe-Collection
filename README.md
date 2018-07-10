@@ -1,3 +1,5 @@
+- 2018-07-10@佚名 [前端进阶：React 企业管理系统开发指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229170&idx=1&sn=595e79bb305ed7f118daab0b90b4e1c5#wechat_redirect)
+- 2018-07-10@佚名 [【第1327期】如何找到一份好的前端开发工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229170&idx=2&sn=0f245c44f59672a5978ac9b0d7df7356#wechat_redirect)
 - 2018-07-09@unclechen [【第1326期】WebView缓存原理分析和应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229156&idx=1&sn=fdd48acd893ddd11ccd2460c46a3c2d1#wechat_redirect)
 - 2018-07-09@情封 [【招聘】数字广东招聘前端开发（腾讯投资）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229156&idx=2&sn=3fcea10945c58eeff70fe8de461e99d5#wechat_redirect)
 - 2018-07-08@PeterZ [【第1325期】以开发的视角做设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229148&idx=1&sn=56a919a266742bdadfee8751514b087a#wechat_redirect)
