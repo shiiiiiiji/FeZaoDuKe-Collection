@@ -1,3 +1,5 @@
+- 2018-07-11@子回 [【第1328期】八幅漫画理解使用JSON Web Token设计单点登录系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229182&idx=1&sn=f3f1a7d6b50c82fcd8bee637e54cc23d#wechat_redirect)
+- 2018-07-11@佚名 [【活动】第四届FEDAY携手中国首届React大会来啦！8月相约广州](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229182&idx=2&sn=cf2bd2ddee6a9f7b413eeeaae92fc13f#wechat_redirect)
 - 2018-07-10@佚名 [前端进阶：React 企业管理系统开发指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229170&idx=1&sn=595e79bb305ed7f118daab0b90b4e1c5#wechat_redirect)
 - 2018-07-10@佚名 [【第1327期】如何找到一份好的前端开发工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229170&idx=2&sn=0f245c44f59672a5978ac9b0d7df7356#wechat_redirect)
 - 2018-07-09@unclechen [【第1326期】WebView缓存原理分析和应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229156&idx=1&sn=fdd48acd893ddd11ccd2460c46a3c2d1#wechat_redirect)
