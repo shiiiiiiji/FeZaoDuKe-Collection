@@ -1,3 +1,4 @@
+- 2018-07-14@boxi [【第1331期】初学者应该如何开启自己的编程生涯？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229201&idx=1&sn=4e1c919f18f322bc7c1e079d51072dda#wechat_redirect)
 - 2018-07-13@cucygh [【第1330期】洞察 video 超能力系列——玩转 mp4](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229196&idx=1&sn=ce78e0aed1cf61d2f4e19585633534a0#wechat_redirect)
 - 2018-07-12@郑丰彧 [【第1329期】从设计师的角度看 Redux](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229187&idx=1&sn=1b96f193797b9341d8f82696c836d87b#wechat_redirect)
 - 2018-07-11@子回 [【第1328期】八幅漫画理解使用JSON Web Token设计单点登录系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229182&idx=1&sn=f3f1a7d6b50c82fcd8bee637e54cc23d#wechat_redirect)
