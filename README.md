@@ -1,3 +1,5 @@
+- 2018-07-17@佚名 [摩拜单车小程序开发实践与框架分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229259&idx=1&sn=42b5cb358ee9ab60c7d69a1abc9642c2#wechat_redirect)
+- 2018-07-17@JeLewine [【第1334期】组件开发的单元素模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229259&idx=2&sn=282f51e877142d14c8bf5c80f5599fc7#wechat_redirect)
 - 2018-07-16@郑丰彧 [【第1333期】图解 React](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229239&idx=1&sn=7678ba973dc16de07a4a6b26e5b9cf81#wechat_redirect)
 - 2018-07-16@情封 [【招聘】飞猪前端2019届校园招聘提前批开始啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229239&idx=2&sn=8670813383ae201e4f2eb2b35e0fc38f#wechat_redirect)
 - 2018-07-15@恋猫月亮 [【第1332期】移动端跨平台开发的深度解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229221&idx=1&sn=1b1b9ecbc5edb13e9600878432102ec8#wechat_redirect)
