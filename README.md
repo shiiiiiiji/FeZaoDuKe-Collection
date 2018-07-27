@@ -1,3 +1,5 @@
+- 2018-07-27@xuyuehang [【第1344期】如何设计提示文字](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229370&idx=1&sn=348f6a83f3b9e5d3b4d8f7808833d1e2&scene=0#wechat_redirect)
+- 2018-07-27@情封 [【招聘】腾讯云基础产品中心急招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229370&idx=2&sn=ce6ba743f483d72e8f23a4e140cdc07d&scene=0#wechat_redirect)
 - 2018-07-26@draveness [【第1343期】GraphQL 在微服务架构中的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229363&idx=1&sn=520e39ab950f554584f853645ff843a4#wechat_redirect)
 - 2018-07-26@佚名 [【图书】码农翻身](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229363&idx=2&sn=037c4e615056488ad977009230b19e18#wechat_redirect)
 - 2018-07-25@佚名 [Git 原理详解及实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229355&idx=1&sn=014c5486a1b29d8b94a1ce09e04bb150#wechat_redirect)
