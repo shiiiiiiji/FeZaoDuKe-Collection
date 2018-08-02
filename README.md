@@ -1,3 +1,4 @@
+- 2018-08-02@旭日云中竹 [【第1350期】2018年值得关注的10大JavaScript动画库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229420&idx=1&sn=111687819cd8388cd52e3873c4a24e15#wechat_redirect)
 - 2018-08-01@SmarTom [【第1349期】谈谈JS数组中的indexOf方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229415&idx=1&sn=5058ce9c3a2a3fa6348e72349c0e1f7b#wechat_redirect)
 - 2018-07-31@康斌 [【第1348期】理解伪元素:before和:after](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229410&idx=1&sn=3131391df885d4bffb6031a22638b76a#wechat_redirect)
 - 2018-07-30@唐先僧 [【第1347期】15分钟成为 GIT 专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229405&idx=1&sn=5fc3fdcdd56d835018513efff8e3c4f1#wechat_redirect)
