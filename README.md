@@ -1,3 +1,8 @@
+- 2018-08-08@Yuying Wu [【第1356期】如何更愉快地使用em](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229486&idx=1&sn=c4f2541df9332b62cdb4056c93fe6bc0#wechat_redirect)
+- 2018-08-08@腾讯 [【工具】一款简单的高效的帧动画生成工具-GKA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229486&idx=2&sn=ff58a2076ed9663d9f8c779552535f3c#wechat_redirect)
+- 2018-08-07@郑丰彧 [【第1355期】组件、Prop 和 State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229478&idx=1&sn=323997511dd5409bc6d2ad361e7b037e#wechat_redirect)
+- 2018-08-07@情封 [【活动】掘金开发者大会 ∙ 微信小程序专场报名啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229478&idx=2&sn=29df889fe6ac3c0cee47ebb0e6672bf8#wechat_redirect)
+- 2018-08-06@hijiangtao [【第1354期】精读 The Cost of JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229465&idx=1&sn=91d532c9b92c63e553cbeb538cec8723#wechat_redirect)
 - 2018-08-05@佚名 [【图书】Node.js：来一打 C++ 扩展](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229458&idx=2&sn=b2fe3c3efecb0b09c3659b7290dbc86f#wechat_redirect)
 - 2018-08-05@Darin [【第1353期】用户体验法则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229458&idx=1&sn=3e2fc7b1ed7b6031c2931e4972fe16d9#wechat_redirect)
 - 2018-08-04@白吟灵 [【第1352期】map和reduce，处理数据结构的利器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229428&idx=1&sn=2a32493e8688631ada6171d45a4ae5fd#wechat_redirect)
