@@ -1,3 +1,5 @@
+- 2018-08-09@情封 [【活动】中国首届React大会，18号广州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229493&idx=1&sn=8d126e3b4c2b2fec46d1262c8bd1d21a#wechat_redirect)
+- 2018-08-09@凯大胳膊 [【第1357期】狙杀页面卡顿 —— PERFORMANCE 指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229493&idx=2&sn=cb80777fdb8aa3795b5b24c3bce49e60#wechat_redirect)
 - 2018-08-08@Yuying Wu [【第1356期】如何更愉快地使用em](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229486&idx=1&sn=c4f2541df9332b62cdb4056c93fe6bc0#wechat_redirect)
 - 2018-08-08@腾讯 [【工具】一款简单的高效的帧动画生成工具-GKA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229486&idx=2&sn=ff58a2076ed9663d9f8c779552535f3c#wechat_redirect)
 - 2018-08-07@郑丰彧 [【第1355期】组件、Prop 和 State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229478&idx=1&sn=323997511dd5409bc6d2ad361e7b037e#wechat_redirect)
