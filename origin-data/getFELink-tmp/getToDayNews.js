@@ -2,6 +2,7 @@
 
 var cheerio = require('cheerio');
 var request = require('request');
+var moment = require('moment');
 var fs = require('fs');
 var result = [];
 
@@ -34,6 +35,8 @@ function callback(error, response, body) {
             for (let i = 0, len = requestResult.length; i < len; i++) {
                 var itemDate = new Date(requestResult[i].createdAt).toLocaleDateString();
                 var now = new Date(Date.now()).toLocaleDateString();
+                // now = '2018-8-6';
+                console.log(itemDate, now);
                 if (itemDate !== now) {
                     console.log('---');
                     console.log('第', i, '后无新推送');
@@ -42,7 +45,7 @@ function callback(error, response, body) {
                 }
                 result.push({
                     title: requestResult[i].content,
-                    date: now,
+                    date: moment(itemDate).format('YYYY-MM-DD'),
                     link: requestResult[i].linkInfo.originalLinkUrl
                 });
                 // res += '- ' + now + '@佚名 [' +  + '](' + requestResult[i].linkInfo.originalLinkUrl + ')' + '\n';
@@ -76,10 +79,10 @@ function _request(index) {
                 console.log('---');
                 console.log(res);
                 console.log('---');
-                fs.writeFile('today'+(new Date()-0)+'.md', res, {
+                fs.writeFile('today' + (new Date() - 0) + '.md', res, {
                     flag: 'a'
-                }, function(err){
-                    if(err) throw err;
+                }, function (err) {
+                    if (err) throw err;
                     console.log('today.md已存在，内容被覆盖！');
                 });
             } else {

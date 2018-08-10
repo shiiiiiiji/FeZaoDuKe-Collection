@@ -1,3 +1,5 @@
+- 2018-08-10@逆图 [【第1358期】如何直观的在JavaScript中管理状态](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229521&idx=1&sn=ead1afc1d26638f822f1a58b685f9833#wechat_redirect)
+- 2018-08-10@情封 [【活动】2018重庆前端交流大会，相约8月18号](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229521&idx=2&sn=6d283a73a6732b7041bf824697beb50f#wechat_redirect)
 - 2018-08-09@情封 [【活动】中国首届React大会，18号广州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229493&idx=1&sn=8d126e3b4c2b2fec46d1262c8bd1d21a#wechat_redirect)
 - 2018-08-09@凯大胳膊 [【第1357期】狙杀页面卡顿 —— PERFORMANCE 指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229493&idx=2&sn=cb80777fdb8aa3795b5b24c3bce49e60#wechat_redirect)
 - 2018-08-08@Yuying Wu [【第1356期】如何更愉快地使用em](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229486&idx=1&sn=c4f2541df9332b62cdb4056c93fe6bc0#wechat_redirect)
