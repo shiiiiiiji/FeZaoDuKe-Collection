@@ -1,3 +1,5 @@
+- 2018-08-11@佚名 [【第1359期】JavaScript核心概念：类型转换](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229528&idx=1&sn=8a12a756f284f5042356f2d27592c66a#wechat_redirect)
+- 2018-08-11@情封 [【活动】深圳 - 第一届前端艺术家沙龙](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229528&idx=2&sn=2bb030acdd9156cca2d67366a11c3987#wechat_redirect)
 - 2018-08-10@逆图 [【第1358期】如何直观的在JavaScript中管理状态](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229521&idx=1&sn=ead1afc1d26638f822f1a58b685f9833#wechat_redirect)
 - 2018-08-10@情封 [【活动】2018重庆前端交流大会，相约8月18号](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229521&idx=2&sn=6d283a73a6732b7041bf824697beb50f#wechat_redirect)
 - 2018-08-09@情封 [【活动】中国首届React大会，18号广州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229493&idx=1&sn=8d126e3b4c2b2fec46d1262c8bd1d21a#wechat_redirect)
