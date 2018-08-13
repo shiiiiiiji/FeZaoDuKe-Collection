@@ -1,3 +1,5 @@
+- 2018-08-13@网易云课堂 [学Web前端开发，真的没前途了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229548&idx=1&sn=c1f0026a03a2822f083fa1cc7c042f9c#wechat_redirect)
+- 2018-08-13@Yuying Wu [【第1361期】如何更愉快地使用rem](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229548&idx=2&sn=d33cd3471fffe1f00cebc91a63b64a7e#wechat_redirect)
 - 2018-08-12@情封 [【活动】美团技术沙龙第42期：高效率前端与架构实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229534&idx=2&sn=786b057989d132cd976f257997920a37#wechat_redirect)
 - 2018-08-12@sea_ljf [【第1360期】初学者应该了解的数据结构： Tree](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229534&idx=1&sn=d7ae1e90989604685365c3a4028a55f4#wechat_redirect)
 - 2018-08-11@佚名 [【第1359期】JavaScript核心概念：类型转换](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229528&idx=1&sn=8a12a756f284f5042356f2d27592c66a#wechat_redirect)
