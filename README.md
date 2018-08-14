@@ -1,3 +1,4 @@
+- 2018-08-15@jrainlau [【第1363期】 用JS写一个同Excel表现的智能填充算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229563&idx=1&sn=ff8c8b0cd222a71795dfb96e15b39f5c#wechat_redirect)
 - 2018-08-14@叶小钗 [【第1362期】微信小程序30分钟从陌生到熟悉（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229554&idx=1&sn=003fb6abaec6df4458070c57f00370a8#wechat_redirect)
 - 2018-08-14@叶小钗 [【第1362期】微信小程序30分钟从陌生到熟悉（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229554&idx=2&sn=a1c4828501440ff1da335dfa3107bd4d#wechat_redirect)
 - 2018-08-13@网易云课堂 [学Web前端开发，真的没前途了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229548&idx=1&sn=c1f0026a03a2822f083fa1cc7c042f9c#wechat_redirect)
