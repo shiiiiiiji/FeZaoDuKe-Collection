@@ -1,3 +1,5 @@
+- 2018-08-14@叶小钗 [【第1362期】微信小程序30分钟从陌生到熟悉（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229554&idx=1&sn=003fb6abaec6df4458070c57f00370a8#wechat_redirect)
+- 2018-08-14@叶小钗 [【第1362期】微信小程序30分钟从陌生到熟悉（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229554&idx=2&sn=a1c4828501440ff1da335dfa3107bd4d#wechat_redirect)
 - 2018-08-13@网易云课堂 [学Web前端开发，真的没前途了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229548&idx=1&sn=c1f0026a03a2822f083fa1cc7c042f9c#wechat_redirect)
 - 2018-08-13@Yuying Wu [【第1361期】如何更愉快地使用rem](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229548&idx=2&sn=d33cd3471fffe1f00cebc91a63b64a7e#wechat_redirect)
 - 2018-08-12@情封 [【活动】美团技术沙龙第42期：高效率前端与架构实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229534&idx=2&sn=786b057989d132cd976f257997920a37#wechat_redirect)
