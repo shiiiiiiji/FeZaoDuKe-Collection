@@ -1,3 +1,5 @@
+- 2018-08-17@Lucas HC [【第1365期】漫谈前端性能，突破React应用瓶颈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229583&idx=1&sn=cbc633824e9799d0409d1df94b330bfb#wechat_redirect)
+- 2018-08-17@情封 [【图书】React 状态管理与同构实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229583&idx=2&sn=2463d160b8015dbb3d7a6c8f44c94593#wechat_redirect)
 - 2018-08-16@小蘑菇小哥 [【第1364期】Webpack之treeShaking](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229569&idx=1&sn=08993ca1084cb3fa6345dca25677c48d#wechat_redirect)
 - 2018-08-15@jrainlau [【第1363期】 用JS写一个同Excel表现的智能填充算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229563&idx=1&sn=ff8c8b0cd222a71795dfb96e15b39f5c#wechat_redirect)
 - 2018-08-14@叶小钗 [【第1362期】微信小程序30分钟从陌生到熟悉（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229554&idx=1&sn=003fb6abaec6df4458070c57f00370a8#wechat_redirect)
