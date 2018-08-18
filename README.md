@@ -1,3 +1,4 @@
+- 2018-08-18@今日头条技术 [【第1366期】如何精确统计页面停留时长](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229597&idx=1&sn=a536d322bd8ccef713637fc93c103a28#wechat_redirect)
 - 2018-08-17@Lucas HC [【第1365期】漫谈前端性能，突破React应用瓶颈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229583&idx=1&sn=cbc633824e9799d0409d1df94b330bfb#wechat_redirect)
 - 2018-08-17@情封 [【图书】React 状态管理与同构实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229583&idx=2&sn=2463d160b8015dbb3d7a6c8f44c94593#wechat_redirect)
 - 2018-08-16@小蘑菇小哥 [【第1364期】Webpack之treeShaking](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229569&idx=1&sn=08993ca1084cb3fa6345dca25677c48d#wechat_redirect)
