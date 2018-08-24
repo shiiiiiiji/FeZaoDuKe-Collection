@@ -1,3 +1,5 @@
+- 2018-08-24@Amos [【第1372期】 CSS垂直居中技巧，我只会23个，你会几个？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229643&idx=1&sn=bcbc7f872a33ec43a72b078bf7f23af3#wechat_redirect)
+- 2018-08-24@佚名 [Redux作者@Dan在中国首届React大会的开场演讲](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229643&idx=2&sn=2a67b644e860520275ec7231beb92132#wechat_redirect)
 - 2018-08-23@旭日云中竹 [【第1371期】Node.js 前端开发指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229637&idx=1&sn=584e2c297506e5b13b997da18b66a37a#wechat_redirect)
 - 2018-08-22@腾讯防水墙 [【第1370期】 验证码前端性能分析及优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229632&idx=1&sn=b2e21da087b12265993e288ec8816c73#wechat_redirect)
 - 2018-08-21@rccoder [【第1369期】简单聊聊 GZIP 的压缩原理与日常应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229616&idx=1&sn=d15278af921df182e37003027d2689fe#wechat_redirect)
