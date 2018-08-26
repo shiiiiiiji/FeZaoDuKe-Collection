@@ -1,3 +1,5 @@
+- 2018-08-26@Chromium学习者 [【第1374期】CSS小发明 :in-viewport](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229668&idx=1&sn=7b981176d17840b60e5f741194498da4#wechat_redirect)
+- 2018-08-26@情封 [【招聘】北京滴滴云招前端实习生以及web前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229668&idx=2&sn=c09b586b2e943c0ada4c24ce3a879924#wechat_redirect)
 - 2018-08-25@Yuying Wu [【第1373期】无单位数字和行高](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229646&idx=1&sn=4df7f0b56fa3a2c0eee46f5a92b71028#wechat_redirect)
 - 2018-08-24@Amos [【第1372期】 CSS垂直居中技巧，我只会23个，你会几个？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229643&idx=1&sn=bcbc7f872a33ec43a72b078bf7f23af3#wechat_redirect)
 - 2018-08-24@佚名 [Redux作者@Dan在中国首届React大会的开场演讲](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229643&idx=2&sn=2a67b644e860520275ec7231beb92132#wechat_redirect)
