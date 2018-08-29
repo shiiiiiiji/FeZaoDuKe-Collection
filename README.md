@@ -1,3 +1,5 @@
+- 2018-08-29@Mahesh Haldar [【第1377期】为什么我们应该关注下 PWA?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229690&idx=1&sn=114143472a78c43499788ba0f6f4d9c1#wechat_redirect)
+- 2018-08-29@情封 [【招聘】腾讯文档 & AlloyTeam招募不凡的你](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229690&idx=2&sn=89b67fb7cbb272171383061ed8d470f5#wechat_redirect)
 - 2018-08-28@佚名 [小程序开发没有技术含量？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229683&idx=1&sn=f5a6709fa444bc222b965bcd94b7ff90#wechat_redirect)
 - 2018-08-28@Yuying Wu [【第1376期】CSS自定义属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229683&idx=2&sn=94c4cff736b0967fc88f95121f06b7bf#wechat_redirect)
 - 2018-08-27@佚名 [【第1375期】JavaScript 引擎基础：原型优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229674&idx=1&sn=41b54e48dd614248e1e44c615fa6e821#wechat_redirect)
