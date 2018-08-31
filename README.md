@@ -1,3 +1,5 @@
+- 2018-08-31@hhking [【第1379期】鸽子传信解释 HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229703&idx=1&sn=a359617c0a532efee84080ba9842a3d4#wechat_redirect)
+- 2018-08-31@阿集 [首个多端 UI 组件库 - Taro UI 发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229703&idx=2&sn=e577a09f55a2cf3324c51b6ed25a720b#wechat_redirect)
 - 2018-08-30@小蘑菇小哥 [【第1378期】 一口(很长的)气了解 Babel](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229696&idx=1&sn=6ab1df09ade3fe2aa1bf8004802bb26b#wechat_redirect)
 - 2018-08-29@Mahesh Haldar [【第1377期】为什么我们应该关注下 PWA?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229690&idx=1&sn=114143472a78c43499788ba0f6f4d9c1#wechat_redirect)
 - 2018-08-29@情封 [【招聘】腾讯文档 & AlloyTeam招募不凡的你](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229690&idx=2&sn=89b67fb7cbb272171383061ed8d470f5#wechat_redirect)
