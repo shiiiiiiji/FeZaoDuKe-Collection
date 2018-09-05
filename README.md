@@ -1,3 +1,5 @@
+- 2018-09-05@前端圈 [【第1384期】Cat Chen谈前端职业生涯重要的几个阶段](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229750&idx=2&sn=b14a9e64410731c921ea146e4664e137#wechat_redirect)
+- 2018-09-05@佚名 [【小册】如何成为大厂H5 开发工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229750&idx=1&sn=94a8153e5711a9db4060d0e06f9e76b8#wechat_redirect)
 - 2018-09-04@田光宇 [【第1383期】 微信小程序架构原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229733&idx=1&sn=e8986c94ae03b341c0078370e2a13e44#wechat_redirect)
 - 2018-09-04@佚名 [【活动】9月8日第七届iWeb峰会全国巡回第一站——上海站报名开启！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229733&idx=2&sn=3169157a165ba1a0a0bd26774a6809e7#wechat_redirect)
 - 2018-09-03@佚名 [【第1382期】悄悄掀起 WebAssembly 的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229719&idx=1&sn=01b8fc51a6251b8809cc7eacb4ebf517#wechat_redirect)
