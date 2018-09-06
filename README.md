@@ -1,3 +1,5 @@
+- 2018-09-06@情封 [【招聘】腾讯IVWEB团队前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229756&idx=2&sn=99e50698336ec06c000a293e9856c6d4#wechat_redirect)
+- 2018-09-06@红烧牛肉面 [【第1385期】Vue高版本中一些新特性的使用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229756&idx=1&sn=e00fd78de83ad7b78952f34156fd7f1e#wechat_redirect)
 - 2018-09-05@前端圈 [【第1384期】Cat Chen谈前端职业生涯重要的几个阶段](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229750&idx=2&sn=b14a9e64410731c921ea146e4664e137#wechat_redirect)
 - 2018-09-05@佚名 [【小册】如何成为大厂H5 开发工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229750&idx=1&sn=94a8153e5711a9db4060d0e06f9e76b8#wechat_redirect)
 - 2018-09-04@田光宇 [【第1383期】 微信小程序架构原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229733&idx=1&sn=e8986c94ae03b341c0078370e2a13e44#wechat_redirect)
