@@ -1,3 +1,5 @@
+- 2018-09-07@黄琼 [【第1386期】React从渲染原理到性能优化（一）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=1&sn=8f06283e43cfcda722189b56644f4dfc#wechat_redirect)
+- 2018-09-07@情封 [【图书】React设计模式与最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=2&sn=25054aefc14a5df9ec79cfd8ce032dbf#wechat_redirect)
 - 2018-09-06@情封 [【招聘】腾讯IVWEB团队前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229756&idx=2&sn=99e50698336ec06c000a293e9856c6d4#wechat_redirect)
 - 2018-09-06@红烧牛肉面 [【第1385期】Vue高版本中一些新特性的使用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229756&idx=1&sn=e00fd78de83ad7b78952f34156fd7f1e#wechat_redirect)
 - 2018-09-05@前端圈 [【第1384期】Cat Chen谈前端职业生涯重要的几个阶段](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229750&idx=2&sn=b14a9e64410731c921ea146e4664e137#wechat_redirect)
