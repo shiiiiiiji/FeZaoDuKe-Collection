@@ -1,3 +1,4 @@
+- 2018-09-08@cf020031308 [【第1387期】带你了解什么是工程师和工程师的影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229782&idx=1&sn=2d67393b1d8aac7762503b0c0fca291b#wechat_redirect)
 - 2018-09-07@黄琼 [【第1386期】React从渲染原理到性能优化（一）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=1&sn=8f06283e43cfcda722189b56644f4dfc#wechat_redirect)
 - 2018-09-07@情封 [【图书】React设计模式与最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=2&sn=25054aefc14a5df9ec79cfd8ce032dbf#wechat_redirect)
 - 2018-09-06@情封 [【招聘】腾讯IVWEB团队前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229756&idx=2&sn=99e50698336ec06c000a293e9856c6d4#wechat_redirect)
