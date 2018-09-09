@@ -1,3 +1,5 @@
+- 2018-09-09@佚名 [【第1388期】snabbdom 源码阅读分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229797&idx=1&sn=4c4902f1d4dc089471232ed5a4fd95b0#wechat_redirect)
+- 2018-09-09@情封 [【招聘】深圳迅雷招19届前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229797&idx=2&sn=6868ff627deff43a76135f12c129f2f9#wechat_redirect)
 - 2018-09-08@cf020031308 [【第1387期】带你了解什么是工程师和工程师的影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229782&idx=1&sn=2d67393b1d8aac7762503b0c0fca291b#wechat_redirect)
 - 2018-09-07@黄琼 [【第1386期】React从渲染原理到性能优化（一）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=1&sn=8f06283e43cfcda722189b56644f4dfc#wechat_redirect)
 - 2018-09-07@情封 [【图书】React设计模式与最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229767&idx=2&sn=25054aefc14a5df9ec79cfd8ce032dbf#wechat_redirect)
