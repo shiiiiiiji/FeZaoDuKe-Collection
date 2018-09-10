@@ -1,3 +1,5 @@
+- 2018-09-10@灵沼 [【第1389期】一起探讨 JavaScript 的对象](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229805&idx=1&sn=a0d14e8e24e6bf89934e14dae37f1060#wechat_redirect)
+- 2018-09-10@轻芒 [【活动】一张白纸随便画，小程序开发不大不小奖赛](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229805&idx=2&sn=87f65f33e9cf2bfd9651e99605a5eb0d#wechat_redirect)
 - 2018-09-09@佚名 [【第1388期】snabbdom 源码阅读分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229797&idx=1&sn=4c4902f1d4dc089471232ed5a4fd95b0#wechat_redirect)
 - 2018-09-09@情封 [【招聘】深圳迅雷招19届前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229797&idx=2&sn=6868ff627deff43a76135f12c129f2f9#wechat_redirect)
 - 2018-09-08@cf020031308 [【第1387期】带你了解什么是工程师和工程师的影响力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229782&idx=1&sn=2d67393b1d8aac7762503b0c0fca291b#wechat_redirect)
