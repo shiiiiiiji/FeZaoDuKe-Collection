@@ -1,3 +1,5 @@
+- 2018-09-12@掘金 [【小册】基于 hapi 的 Node.js 小程序后端开发实践指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229831&idx=1&sn=5ce95f77fd99c275ca1bd1fa48d01e74#wechat_redirect)
+- 2018-09-12@旭日云中竹 [【第1391期】前端数据扁平化与持久化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229831&idx=2&sn=99984badcd42382a5f0ac8e7a036b1d1#wechat_redirect)
 - 2018-09-11@pkuwwt [【第1390期】React Native: 回顾 Udacity 移动工程团队的使用历程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229821&idx=2&sn=c13c2abfd89167d8aa02302bbb932f6f#wechat_redirect)
 - 2018-09-11@极客时间 [最流行的轻量级代码编辑器 VS Code，了解下](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229821&idx=1&sn=7f5e5fa00009bc047c1d3ef5735ca69d#wechat_redirect)
 - 2018-09-10@灵沼 [【第1389期】一起探讨 JavaScript 的对象](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229805&idx=1&sn=a0d14e8e24e6bf89934e14dae37f1060#wechat_redirect)
