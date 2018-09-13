@@ -1,3 +1,5 @@
+- 2018-09-13@黄琼 [【第1392期】React从渲染原理到性能优化（二）-- 更新渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229841&idx=1&sn=d8f1b4feaf9298522daf8f9543080df3#wechat_redirect)
+- 2018-09-13@情封 [【活动】IMWebConf 2018 前端大会，10 月 14 日重磅来袭！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229841&idx=2&sn=4b17ae74682cc4fb510142701c21c326#wechat_redirect)
 - 2018-09-12@掘金 [【小册】基于 hapi 的 Node.js 小程序后端开发实践指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229831&idx=1&sn=5ce95f77fd99c275ca1bd1fa48d01e74#wechat_redirect)
 - 2018-09-12@旭日云中竹 [【第1391期】前端数据扁平化与持久化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229831&idx=2&sn=99984badcd42382a5f0ac8e7a036b1d1#wechat_redirect)
 - 2018-09-11@pkuwwt [【第1390期】React Native: 回顾 Udacity 移动工程团队的使用历程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229821&idx=2&sn=c13c2abfd89167d8aa02302bbb932f6f#wechat_redirect)
