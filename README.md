@@ -1,3 +1,5 @@
+- 2018-09-14@情封 [【活动】赠送16本书以及腾讯IMWeb前端大会门票，机会有限～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229850&idx=1&sn=beac57cbe509faa2b9897015202d4dff#wechat_redirect)
+- 2018-09-14@佚名 [【第1393期】小程序多业务线融合【完整分包业务接入】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229850&idx=2&sn=3677610c0f06ace1cb81bbf024b50733#wechat_redirect)
 - 2018-09-13@黄琼 [【第1392期】React从渲染原理到性能优化（二）-- 更新渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229841&idx=1&sn=d8f1b4feaf9298522daf8f9543080df3#wechat_redirect)
 - 2018-09-13@情封 [【活动】IMWebConf 2018 前端大会，10 月 14 日重磅来袭！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229841&idx=2&sn=4b17ae74682cc4fb510142701c21c326#wechat_redirect)
 - 2018-09-12@掘金 [【小册】基于 hapi 的 Node.js 小程序后端开发实践指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229831&idx=1&sn=5ce95f77fd99c275ca1bd1fa48d01e74#wechat_redirect)
