@@ -1,3 +1,4 @@
+- 2018-09-15@MeFelixWang [【第1394期】JavaScript 2018 中即将迎来的新功能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229860&idx=1&sn=14c89c0607e1aeb2fd8387727da71741#wechat_redirect)
 - 2018-09-14@情封 [【活动】赠送16本书以及腾讯IMWeb前端大会门票，机会有限～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229850&idx=1&sn=beac57cbe509faa2b9897015202d4dff#wechat_redirect)
 - 2018-09-14@佚名 [【第1393期】小程序多业务线融合【完整分包业务接入】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229850&idx=2&sn=3677610c0f06ace1cb81bbf024b50733#wechat_redirect)
 - 2018-09-13@黄琼 [【第1392期】React从渲染原理到性能优化（二）-- 更新渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229841&idx=1&sn=d8f1b4feaf9298522daf8f9543080df3#wechat_redirect)
