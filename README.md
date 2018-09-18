@@ -1,3 +1,5 @@
+- 2018-09-18@sea_ljf [【第1397期】如何在 JavaScript 中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- 2018-09-18@情封 [【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect)
 - 2018-09-17@开课吧 [大神总结：阿里P8 Web全栈工程师必知必会，拿走不谢！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229871&idx=1&sn=d759025c329362cf52fa7aa1cc4659f5#wechat_redirect)
 - 2018-09-17@张钊 [【第1396期】immer.js 简介及源码简析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229871&idx=2&sn=a68b1d12188a23977bef04a5db744ddc#wechat_redirect)
 - 2018-09-16@佚名 [【第1395期】深入 V8 引擎：“小整数”到底有多小？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229861&idx=1&sn=66d917222f8757b35c6344ca68fee391#wechat_redirect)
