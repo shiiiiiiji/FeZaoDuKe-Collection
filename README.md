@@ -1,3 +1,5 @@
+- 2018-10-13@飞鱼 [【第1414期】缓存 React 事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230052&idx=1&sn=e26cec7d159de9ed5586e7535e6f8031#wechat_redirect)
+- 2018-10-12@serialcoder [【第1413期】 我如何零基础转行成为一个自信的前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230042&idx=1&sn=f476282272af5a8a661aef0b88bec479#wechat_redirect)
 - 2018-10-11@郑丰彧 [【第1412期】React Native vs. Cordova、PhoneGap、Ionic，等等](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230036&idx=1&sn=7d819087e7a26aeddbcfa8cd4b3f0071#wechat_redirect)
 - 2018-10-10@Yvan Zhong [【第1411期】Airbnb 爱彼迎房源详情页中的 React 性能优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230032&idx=1&sn=29adcf0c2a314d6c931e96efd9e193d8#wechat_redirect)
 - 2018-10-09@西楼听雨 [【第1410期】尤雨溪：Vue 3.0 计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect)
