@@ -1,3 +1,5 @@
+- 2018-10-15@佚名 [有人说前端岗位饱和了，我还该不该入门学习前端？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=1&sn=62bba6f7da8ff3f23eab3e54b1e6689b#wechat_redirect)
+- 2018-10-15@佚名 [【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
 - 2018-10-14@Hopsken [【第1415期】五个小技巧让你写出更好的 JavaScript 条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - 2018-10-13@飞鱼 [【第1414期】缓存 React 事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230052&idx=1&sn=e26cec7d159de9ed5586e7535e6f8031#wechat_redirect)
 - 2018-10-12@serialcoder [【第1413期】 我如何零基础转行成为一个自信的前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230042&idx=1&sn=f476282272af5a8a661aef0b88bec479#wechat_redirect)
