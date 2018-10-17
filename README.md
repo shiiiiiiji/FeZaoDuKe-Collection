@@ -1,3 +1,7 @@
+- 2018-10-17@佚名 [前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=1&sn=df05518eef365a682922688fede7dfa0#wechat_redirect)
+- 2018-10-17@花生 [【第1418期】JavaScript 响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
+- 2018-10-16@doodlewind [【第1417期】浅析 React / Vue 跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect)
+- 2018-10-16@情封 [【活动】第二届Vue.js开发者大会，11月24号杭州见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=2&sn=64a466142687a10eb6a8d5e91ce0e0fd#wechat_redirect)
 - 2018-10-15@佚名 [有人说前端岗位饱和了，我还该不该入门学习前端？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=1&sn=62bba6f7da8ff3f23eab3e54b1e6689b#wechat_redirect)
 - 2018-10-15@佚名 [【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
 - 2018-10-14@Hopsken [【第1415期】五个小技巧让你写出更好的 JavaScript 条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
