@@ -1,3 +1,5 @@
+- 2018-10-18@灵沼 [【第1419期】JavaScript 计时器之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=1&sn=c3e8e56c327c825ad526de14a6e8e4ae#wechat_redirect)
+- 2018-10-18@情封 [[招聘] AFX · 蚂蚁体验技术部 招至少P6级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=2&sn=3e260cee27b1b1aa7f4a001dae300ac7#wechat_redirect)
 - 2018-10-17@佚名 [前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=1&sn=df05518eef365a682922688fede7dfa0#wechat_redirect)
 - 2018-10-17@花生 [【第1418期】JavaScript 响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - 2018-10-16@doodlewind [【第1417期】浅析 React / Vue 跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect)
