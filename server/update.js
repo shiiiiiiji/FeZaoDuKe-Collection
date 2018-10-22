@@ -106,9 +106,14 @@ function handleREADME() {
 	fs.writeFileSync('../README.md', content, 'utf-8');
 }
 
+/**
+ * @msg: 添加到汇总文件
+ * @param {type} 
+ * @return: 
+ */
 function handleAPPEND() {
 	updateResult.forEach(item => {
-		fs.appendFileSync('../HISTORY.md', `| ${item.date} | [${item.title}](${item.link}) |\n`, 'utf-8');
+		fs.appendFileSync('../SUMMARY.md', `| ${item.date} | [${item.title}](${item.link}) |\n`, 'utf-8');
 	});
 }
 
@@ -124,7 +129,7 @@ function handlerCommit() {
 		.add('./*')
 		.commit('自动更新： ' + updateResult[0].title + '等' + updateResult.length + '条数据')
 		.push(['-u', 'origin', 'master'], () => {
-			fs.writeFileSync('../data/prev.json', _now(), 'utf-8');
+			fs.writeFileSync('../data/prev.json', moment().format('YYYY-MM-DD'), 'utf-8'); // 今日是否更新
 			console.log(_now() + ' - 提交成功:)！--- Task End ---\n')
 		});
 }
@@ -144,7 +149,8 @@ function handleEmpty() {
  * @return: 
  */
 function isToday(t1, t2) {
-	return !moment(t2).diff(moment(t1), 'days');
+	// return !moment(t2).diff(moment(t1), 'days');
+	return moment(t1).format('YYYY-MM-DD') === moment(t2).format('YYYY-MM-DD');
 }
 
 /**
