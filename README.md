@@ -1,8 +1,8 @@
-<div align="center"><img width="40" src="https://pic-txcdn.ruguoapp.com/Fk5FEKD_ctb3mNX--KqpCp5oyHaw.png?imageView2/1/w/300/h/300/format/jpeg/q/80" /> X <img width="40" src="https://avatars0.githubusercontent.com/u/3774016?s=460&v=4" /><h1>FeZaoDuKe-Collection-Beta</h1></div>
+<div align="center"><img width="100" src="https://pic-txcdn.ruguoapp.com/Fk5FEKD_ctb3mNX--KqpCp5oyHaw.png?imageView2/1/w/300/h/300/format/jpeg/q/80" /><img width="100" src="https://avatars0.githubusercontent.com/u/3774016?s=460&v=4" /><h1>FeZaoDuKe-Collection-Beta</h1></div>
 
-前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./ALL.md)。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
+前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./ALL.md)。自动更新时间点为每天的 09:00、12:00、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-10-23 00:48:31，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-10-23 01:10:59，:rocket: 更新条数: +2
 
 ## 更新内容
 - [我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)

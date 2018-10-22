@@ -75,6 +75,7 @@ function update() {
 				});
 				if (updateResult.length) {
 					handleREADME();
+					handleAPPEND();
 					handlerCommit();
 				} else {
 					console.log(_now() + ' - 本次更新无数据！等待下次任务执行:(');
@@ -103,6 +104,12 @@ function handleREADME() {
 		data: updateResult
 	})
 	fs.writeFileSync('../README.md', content, 'utf-8');
+}
+
+function handleAPPEND() {
+	updateResult.forEach(item => {
+		fs.appendFileSync('../HISTORY.md', `| ${item.date} | [${item.title}](${item.link}) |\n`, 'utf-8');
+	});
 }
 
 /**
