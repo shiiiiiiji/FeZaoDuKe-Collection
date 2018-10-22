@@ -1,3 +1,5 @@
+- 2018-10-22@情封 [我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)
+- 2018-10-22@小蘑菇哥哥 [【第1423期】数据劫持 OR 数据代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=2&sn=321151c9339f364d52617a0091896bf6#wechat_redirect)
 - 2018-10-21@ris Jay [【第1422期】成为高级工程师后，职业生涯的下一步是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect)
 - 2018-10-20@佚名 [【第1421期】2018年如何写一个现代的JavaScript库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230101&idx=1&sn=20cacbb284449da8a5ae16314c782632#wechat_redirect)
 - 2018-10-19@花生 [【第1420期】JavaScript 响应式与 Proxy](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=1&sn=17840f1f7e639f7a56f21cff95528591#wechat_redirect)
