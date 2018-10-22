@@ -1,0 +1,32 @@
+{
+  "name": "fezaoduke-collection",
+  "version": "1.0.0",
+  "description": "前端早读课文章自动更新、commit、push。",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhr/FeZaoDuKe-Collection.git"
+  },
+  "keywords": [
+    "FeZaoDuKe",
+    "Front-End"
+  ],
+  "author": "uhr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhr/FeZaoDuKe-Collection/issues"
+  },
+  "homepage": "https://github.com/uhr/FeZaoDuKe-Collection#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "later": "^1.2.0",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "simple-git": "^1.105.0",
+    "underscore": "^1.9.1"
+  }
+}
