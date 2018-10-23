@@ -2,7 +2,7 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 09:00、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-10-23 22:22:06，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-10-23 22:22:17，:rocket: 更新条数: +2
 
 ## 更新内容
 - [【第1424期】你听说过原生 HTML 组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)
