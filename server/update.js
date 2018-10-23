@@ -14,9 +14,8 @@ let prevUpdate = '';
  */
 function handleUpdate() {
 	// prevUpdate = require('../data/prev.json');	// 注意这里会有缓存，改用 fs 读取
-	prevUpdate = fs.readFileSync('../data/prev');
+	prevUpdate = fs.readFileSync('../data/prev', 'utf-8');
 	console.log('\n--- Task Start ---');
-	console.log(prevUpdate);
 	let hasUpdateToday = isToday(prevUpdate);
 	if (hasUpdateToday) {
 		console.log(_now() + ' - 今日已更新:)');
@@ -114,7 +113,7 @@ function handleREADME() {
 function handleAPPEND() {
 	updateResult.forEach(item => {
 		fs.appendFileSync('../SUMMARY.md', `| ${item.date} | [${item.title}](${item.link}) |\n`, 'utf-8');
-		fs.writeFileSync('../data/prev', `"${moment().format('YYYY-MM-DD')}"`, 'utf-8'); // 今日是否更新
+		fs.writeFileSync('../data/prev', moment().format('YYYY-MM-DD'), 'utf-8'); // 今日是否更新
 	});
 }
 
