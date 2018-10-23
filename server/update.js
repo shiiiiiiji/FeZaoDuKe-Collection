@@ -6,18 +6,17 @@ const simpleGit = require('simple-git')(path.join('../'));
 const _ = require('underscore')
 
 let updateResult = []; // 更新结果
-
+let prevUpdate = '';
 /**
  * @msg: 更新入口
  * @param {type} 
  * @return: 
  */
 function handleUpdate() {
+	prevUpdate = require('../data/prev.json');	// 注意这里会有缓存，所以结束后手动置空
 	console.log('\n--- Task Start ---');
-	let prevUpdate = require('../data/prev.json');
 	console.log(prevUpdate);
 	let hasUpdateToday = isToday(prevUpdate);
-	updateResult = [];
 	if (hasUpdateToday) {
 		console.log(_now() + ' - 今日已更新:)');
 		console.log('--- Task End ---\n');
@@ -131,7 +130,9 @@ function handlerCommit() {
 		.add('./*')
 		.commit(':beers: 自动更新： ' + updateResult[0].title + '等' + updateResult.length + '条数据')
 		.push(['-u', 'origin', 'master'], () => {
-			console.log(_now() + ' - 提交成功:)\n--- Task End ---\n')
+			console.log(_now() + ' - 提交成功:)\n--- Task End ---\n');
+			updateResult = [];	// 清空上次结果
+			prevUpdate = '';
 		});
 }
 
