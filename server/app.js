@@ -16,8 +16,8 @@ later.setInterval(handlerUpdate, {
 			m: [00]
 		},
 		{
-			h: [12],
-			m: [00]
+			h: [10],
+			m: [30]
 		},
 		{
 			h: [16],
