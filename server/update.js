@@ -15,6 +15,7 @@ let updateResult = []; // 更新结果
 function handleUpdate() {
 	console.log('\n--- Task Start ---');
 	let prevUpdate = require('../data/prev.json');
+	console.log(prevUpdate);
 	let hasUpdateToday = isToday(prevUpdate);
 	updateResult = [];
 	if (hasUpdateToday) {
