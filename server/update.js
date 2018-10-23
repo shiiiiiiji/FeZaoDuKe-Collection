@@ -1,7 +1,8 @@
-const fs = require('fs')
+const fs = require('fs');
+const path = require('path');
 const rp = require('request-promise');
 const moment = require('moment');
-const simpleGit = require('simple-git')('../');
+const simpleGit = require('simple-git')(path.join('../'));
 const _ = require('underscore')
 
 const prevUpdate = require('../data/prev.json');

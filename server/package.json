@@ -28,5 +28,8 @@
     "request-promise": "^4.2.2",
     "simple-git": "^1.105.0",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "path": "^0.12.7"
   }
 }
