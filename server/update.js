@@ -5,10 +5,7 @@ const moment = require('moment');
 const simpleGit = require('simple-git')(path.join('../'));
 const _ = require('underscore')
 
-const prevUpdate = require('../data/prev.json');
-
 let updateResult = []; // 更新结果
-let renderObj = {};
 
 /**
  * @msg: 更新入口
@@ -17,8 +14,9 @@ let renderObj = {};
  */
 function handleUpdate() {
 	console.log('\n--- Task Start ---');
-
+	let prevUpdate = require('../data/prev.json');
 	let hasUpdateToday = isToday(prevUpdate);
+	updateResult = [];
 	if (hasUpdateToday) {
 		console.log(_now() + ' - 今日已更新:)');
 		console.log('--- Task End ---\n');
