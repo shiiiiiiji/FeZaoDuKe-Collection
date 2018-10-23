@@ -126,11 +126,11 @@ function handlerCommit() {
 	console.log(_now() + ' - 本次更新完成，即将提交到 Github');
 
 	simpleGit
-		.add('./*')
+		.add('.')
 		.commit('自动更新： ' + updateResult[0].title + '等' + updateResult.length + '条数据')
 		.push(['-u', 'origin', 'master'], () => {
 			fs.writeFileSync('../data/prev.json', `"${moment().format('YYYY-MM-DD')}"`, 'utf-8'); // 今日是否更新
-			console.log(_now() + ' - 提交成功:)！--- Task End ---\n')
+			console.log(_now() + ' - 提交成功:)！\n--- Task End ---\n')
 		});
 }
 
