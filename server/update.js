@@ -127,6 +127,8 @@ function handlerCommit() {
 	console.log(_now() + ' - 本次更新完成，即将提交到 Github');
 
 	simpleGit
+		.addConfig('user.name', 'uhr')
+		.addConfig('user.email', 'ze.zh@hotmail.com')
 		.add('.')
 		.commit(':beers: 自动更新： ' + updateResult[0].title + '等' + updateResult.length + '条数据')
 		.push(['-u', 'origin', 'master'], () => {
