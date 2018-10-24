@@ -12,8 +12,11 @@ const handlerUpdate = require('./update')
 later.date.localTime()
 later.setInterval(handlerUpdate, {
 	schedules: [{
-			h: [09],
+			h: [08],
 			m: [00]
+		},{
+			h: [08],
+			m: [30]
 		},
 		{
 			h: [10],
