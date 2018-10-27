@@ -9,3 +9,4 @@
 | 2018-10-25 | [一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect) |
 | 2018-10-25 | [【第1426期】代码优化策略 — Idle Until Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) |
 | 2018-10-26 | [【第1427期】构建大型 Redux 应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect) |
+| 2018-10-27 | [【第1428期】React v16.7 "Hooks" - What to Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect) |
