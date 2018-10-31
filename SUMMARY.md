@@ -14,3 +14,4 @@
 | 2018-10-29 | [【第1430期】以面试官的角度来看 React 工作面试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230165&idx=1&sn=765772f7fb33d6dd5211183c2f186eb6#wechat_redirect) |
 | 2018-10-30 | [前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) |
 | 2018-10-30 | [【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) |
+| 2018-10-31 | [【第1432期】megalo -- 网易考拉小程序解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230183&idx=1&sn=194e48cc4c3737032e38d7d509596c95#wechat_redirect) |
