@@ -18,3 +18,4 @@
 | 2018-11-01 | [【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) |
 | 2018-11-02 | [【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) |
 | 2018-11-02 | [【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) |
+| 2018-11-03 | [【第1435期】国际化 - 通用 LTR/RTL 布局解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230202&idx=1&sn=fb1e6dd2d9784158aab49dff838c34b0#wechat_redirect) |

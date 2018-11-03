@@ -2,11 +2,10 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-11-02 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-11-03 08:00:04，:rocket: 更新条数: +1
 
 ## 更新内容
-- [【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect)
-- [【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect)
+- [【第1435期】国际化 - 通用 LTR/RTL 布局解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230202&idx=1&sn=fb1e6dd2d9784158aab49dff838c34b0#wechat_redirect)
 
 
 ## 感谢
