@@ -24,3 +24,4 @@
 | 2018-11-05 | [【第1437期】深拷贝的终极探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=2&sn=383436ee9c652e09ebb120e360114ec2#wechat_redirect) |
 | 2018-11-06 | [【第1438期】如何让你的网页“看起来”展现地更快 —— 骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect) |
 | 2018-11-06 | [【活动】第13届D2前端技术论坛，2019年1月6日杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=2&sn=aaafbf5860a9ca1f23803bf742f39ee6#wechat_redirect) |
+| 2018-11-07 | [【第1439期】React 项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect) |
