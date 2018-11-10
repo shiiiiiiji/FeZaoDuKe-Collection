@@ -29,3 +29,4 @@
 | 2018-11-08 | [【第1440期】你所不知道的 CSS 阴影技巧与细节](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-qfv4WpSpLWsNgmPr4BvlnuOO-qo1b6Q93XrHwg-r8y%2AYr6BZ9t94qUwteP35D9SE%3D&id=1000000839) |
 | 2018-11-09 | [【第1441期】 Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect) |
 | 2018-11-09 | [【活动】2018 ngChina 开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) |
+| 2018-11-10 | [【第1442期】 如何写出一手好的小程序之多端架构篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230282&idx=1&sn=e2e3535fc414ac117c4c1fad041d8f9d#wechat_redirect) |
