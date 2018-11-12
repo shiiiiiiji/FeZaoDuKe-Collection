@@ -31,3 +31,4 @@
 | 2018-11-09 | [【活动】2018 ngChina 开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) |
 | 2018-11-10 | [【第1442期】 如何写出一手好的小程序之多端架构篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230282&idx=1&sn=e2e3535fc414ac117c4c1fad041d8f9d#wechat_redirect) |
 | 2018-11-11 | [【第1443期】React 中同构（SSR）原理脉络梳理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230283&idx=1&sn=9d83443fd9cf76707b90d6613acb2296#wechat_redirect) |
+| 2018-11-12 | [【第1444期】30分钟精通React今年最劲爆的新特性——React Hooks](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230285&idx=1&sn=02499ccd8f7760d2a7e09b3e3ff8259a#wechat_redirect) |
