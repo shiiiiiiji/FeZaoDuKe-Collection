@@ -2,10 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-11-13 08:00:05，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2018-11-14 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1444期】Vue: scoped 样式与 CSS Module 对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230290&idx=1&sn=a3bd3f3f31193a58b48e701b718e2d29#wechat_redirect)
+- [Taro 多端开发实现原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=1&sn=110ed4bcb570907b00cf6c66b7a29a49#wechat_redirect)
+- [【第1446期】精致化的微前端开发之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=2&sn=24e9c4a3d774c1c2778b539e61e74a10#wechat_redirect)
 
 
 ## 感谢
