@@ -37,3 +37,6 @@
 | 2018-11-14 | [【第1446期】精致化的微前端开发之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=2&sn=24e9c4a3d774c1c2778b539e61e74a10#wechat_redirect) |
 | 2018-11-15 | [【第1447期】如何通过 HSB 颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) |
 | 2018-11-15 | [【招聘】广州微信招T2级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=2&sn=b3c72eaa132cbda50baada38abdba97a#wechat_redirect) |
+| 2018-11-16 | [【第1448期】深入理解 React 高阶组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=1&sn=023025f5d31ef1d6c7ae3af7bfdac22e#wechat_redirect) |
+| 2018-11-16 | [Vue 3.0 Updates](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=3&sn=bd3bae85e64538987707df5459099e98#wechat_redirect) |
+| 2018-11-16 | [【招聘】可能是阿里最真诚的前端工程师招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=2&sn=4e7580feb7306e8fc3d819da5ec128f6#wechat_redirect) |
