@@ -40,3 +40,5 @@
 | 2018-11-16 | [【第1448期】深入理解 React 高阶组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=1&sn=023025f5d31ef1d6c7ae3af7bfdac22e#wechat_redirect) |
 | 2018-11-16 | [Vue 3.0 Updates](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=3&sn=bd3bae85e64538987707df5459099e98#wechat_redirect) |
 | 2018-11-16 | [【招聘】可能是阿里最真诚的前端工程师招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=2&sn=4e7580feb7306e8fc3d819da5ec128f6#wechat_redirect) |
+| 2018-11-17 | [【第1449期】WebAssembly 后 MVP 时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect) |
+| 2018-11-17 | [【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect) |
