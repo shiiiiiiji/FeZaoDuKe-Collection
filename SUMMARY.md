@@ -42,3 +42,4 @@
 | 2018-11-16 | [【招聘】可能是阿里最真诚的前端工程师招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=2&sn=4e7580feb7306e8fc3d819da5ec128f6#wechat_redirect) |
 | 2018-11-17 | [【第1449期】WebAssembly 后 MVP 时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect) |
 | 2018-11-17 | [【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect) |
+| 2018-11-18 | [【第1450期】交互细节：页面链接打开方式探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230408&idx=1&sn=163ca23d1efbbca5868db951cdb4c6e0#wechat_redirect) |
