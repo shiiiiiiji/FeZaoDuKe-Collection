@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-11-22 10:30:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-11-23 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【活动】官宣：前端早读课五周年了~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=1&sn=7049fbe4a6d5e1ee0ca8f6f4e1ca41fd#wechat_redirect)
-- [【第1454期】JS箭头函数三连问：为何用、怎么用、何时用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=2&sn=2d99a0aa287ce99ce32625161a150b91#wechat_redirect)
+- [前端框架千千万，搞定Angular学一半](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=1&sn=64d7be7727977bd309e6337e71f21f07#wechat_redirect)
+- [【第1455期】新一代页面生命周期API：来自Chrome官方博客的介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=2&sn=be8893c4b3dd7bd2f1b6e2afa39cddff#wechat_redirect)
 
 
 ## 感谢
