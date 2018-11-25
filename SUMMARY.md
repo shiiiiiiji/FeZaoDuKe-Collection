@@ -54,3 +54,5 @@
 | 2018-11-23 | [【第1455期】新一代页面生命周期API：来自Chrome官方博客的介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=2&sn=be8893c4b3dd7bd2f1b6e2afa39cddff#wechat_redirect) |
 | 2018-11-24 | [【活动】前端早读课五周年评论留言篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230508&idx=1&sn=6686858a33ddf26b1b0e2bf2010c67bf#wechat_redirect) |
 | 2018-11-24 | [【第1456期】更快的 async 函数和 promises](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230508&idx=2&sn=5626144b55b7fad867b259ccef50e4df#wechat_redirect) |
+| 2018-11-25 | [【第1457期】CSS 与网络性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=1&sn=99f1cd18de1593c4f602cfde5f6d29a7#wechat_redirect) |
+| 2018-11-25 | [【同说】@宋民国，一个活跃在前端早读课微信群的男人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=2&sn=bec37b3bd83bffddaa592e5cfc70a275#wechat_redirect) |
