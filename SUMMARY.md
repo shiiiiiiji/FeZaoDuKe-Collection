@@ -58,3 +58,6 @@
 | 2018-11-25 | [【同说】@宋民国，一个活跃在前端早读课微信群的男人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=2&sn=bec37b3bd83bffddaa592e5cfc70a275#wechat_redirect) |
 | 2018-11-26 | [【第1458期】ElementUI的构建流程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=1&sn=25761fb0d218c3f11dd97662fbad0f0a#wechat_redirect) |
 | 2018-11-26 | [【招聘】北京作业帮招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=2&sn=00d92555a101ace5f9249f2f8cf1e522#wechat_redirect) |
+| 2018-11-27 | [【第1459期】await VS return VS return await](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=1&sn=d6d47f921962f87649785835b1bd82f1#wechat_redirect) |
+| 2018-11-27 | [【视频】Vue作者尤雨溪为你分享：Vue 3.0 进展](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=3&sn=ee262fb27087d7d48817f9a341b094cf#wechat_redirect) |
+| 2018-11-27 | [【活动】第二届网易杭州前端技术大会，1.19在杭州举办](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=2&sn=fb27974e24caba998e11447cf21a2a79#wechat_redirect) |
