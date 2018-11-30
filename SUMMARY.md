@@ -65,3 +65,5 @@
 | 2018-11-28 | [【第1460期】JavaScript 基础：Babel 转译 class 过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) |
 | 2018-11-29 | [【第1461期】平庸前端码农之蜕变 — AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect) |
 | 2018-11-29 | [【周边】前端早读课五周年周边来了～～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=2&sn=11c2ad2e83ff0573a20c7aa89aaa9391#wechat_redirect) |
+| 2018-11-30 | [Vue3.0都要出了，你连2.0还不会？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=1&sn=64d25e96c0565c18c70541eaeca849c6#wechat_redirect) |
+| 2018-11-30 | [【第1462期】赶上 ECMAScript 潮流：用现代 JavaScript 编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=2&sn=d7cef6047ca65a840c9b0649437a05e9#wechat_redirect) |
