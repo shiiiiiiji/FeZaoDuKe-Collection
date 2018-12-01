@@ -2,11 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-11-30 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-12-01 08:00:05，:rocket: 更新条数: +3
 
 ## 更新内容
-- [Vue3.0都要出了，你连2.0还不会？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=1&sn=64d25e96c0565c18c70541eaeca849c6#wechat_redirect)
-- [【第1462期】赶上 ECMAScript 潮流：用现代 JavaScript 编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=2&sn=d7cef6047ca65a840c9b0649437a05e9#wechat_redirect)
+- [【第1463期】谨慎处理 Service Worker 的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect)
+- [【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect)
+- [【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect)
 
 
 ## 感谢

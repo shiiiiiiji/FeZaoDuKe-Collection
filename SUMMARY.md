@@ -67,3 +67,6 @@
 | 2018-11-29 | [【周边】前端早读课五周年周边来了～～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=2&sn=11c2ad2e83ff0573a20c7aa89aaa9391#wechat_redirect) |
 | 2018-11-30 | [Vue3.0都要出了，你连2.0还不会？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=1&sn=64d25e96c0565c18c70541eaeca849c6#wechat_redirect) |
 | 2018-11-30 | [【第1462期】赶上 ECMAScript 潮流：用现代 JavaScript 编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=2&sn=d7cef6047ca65a840c9b0649437a05e9#wechat_redirect) |
+| 2018-12-01 | [【第1463期】谨慎处理 Service Worker 的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) |
+| 2018-12-01 | [【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) |
+| 2018-12-01 | [【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) |
