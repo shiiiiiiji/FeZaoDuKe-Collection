@@ -2,10 +2,10 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-12-09 08:00:04，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2018-12-10 08:00:04，:rocket: 更新条数: +1
 
 ## 更新内容
-- [【第1471期】AST抽象语法树——最基础的javascript重点知识](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230664&idx=1&sn=595511aae2a2ce6460e8ab6949e862bf#wechat_redirect)
+- [【第1472期】我们为什么要写 super(props)?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230666&idx=1&sn=8ffd1fb4802b92e8b2a15099a9539e33#wechat_redirect)
 
 
 ## 感谢

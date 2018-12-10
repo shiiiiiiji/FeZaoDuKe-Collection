@@ -82,3 +82,4 @@
 | 2018-12-07 | [【视频】我在维护Vue CLI项目过程中学到了什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=2&sn=0dfe43e2105e07a0bcf862a5de3cec62#wechat_redirect) |
 | 2018-12-08 | [【第1470期】为什么前端工程师需要关注设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230662&idx=1&sn=848b94c5cd61a330f20f539d0dba6d5a#wechat_redirect) |
 | 2018-12-09 | [【第1471期】AST抽象语法树——最基础的javascript重点知识](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230664&idx=1&sn=595511aae2a2ce6460e8ab6949e862bf#wechat_redirect) |
+| 2018-12-10 | [【第1472期】我们为什么要写 super(props)?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230666&idx=1&sn=8ffd1fb4802b92e8b2a15099a9539e33#wechat_redirect) |
