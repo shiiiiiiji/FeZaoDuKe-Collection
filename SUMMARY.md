@@ -92,3 +92,4 @@
 | 2018-12-13 | [【第1475期】企鹅辅导课程详情页毫秒开的秘密 - PWA 直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) |
 | 2018-12-14 | [【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) |
 | 2018-12-14 | [【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect) |
+| 2018-12-15 | [【第1477期】想写好前端，先练好内功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230706&idx=1&sn=e96555bdf9b8251852928f4a3c5193e0#wechat_redirect) |
