@@ -99,3 +99,6 @@
 | 2018-12-17 | [2018年最火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230731&idx=1&sn=c6e8557dbd56040e520cf3de2cc17f7c#wechat_redirect) |
 | 2018-12-18 | [【活动】袋鼠云技术团队沙龙第16期前端技术最新实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230735&idx=2&sn=c46d18f151ee9d4618540a51f93c696f#wechat_redirect) |
 | 2018-12-18 | [【第1480期】提高设计美感，你需要这七个“作弊”小窍门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230735&idx=1&sn=fd9b9404017f1cfe08d6e14c09a3c458#wechat_redirect) |
+| 2018-12-19 | [【视频】再谈Vue SSR -- 响应式数据流在快手游戏直播中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=3&sn=9cd0a1c95bc37077439cb927808ada37#wechat_redirect) |
+| 2018-12-19 | [Taro 1.2：将已有微信小程序转换为多端应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=2&sn=67ab7eae2787f19a74b309e564b50b1d#wechat_redirect) |
+| 2018-12-19 | [【第1481期】函数式编程：抽象与组合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=1&sn=3bc83bedbf71b9d33dfd0a24c961148c#wechat_redirect) |
