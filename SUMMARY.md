@@ -104,3 +104,5 @@
 | 2018-12-19 | [【第1481期】函数式编程：抽象与组合](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=1&sn=3bc83bedbf71b9d33dfd0a24c961148c#wechat_redirect) |
 | 2018-12-20 | [【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) |
 | 2018-12-20 | [【第1482期】基于用户投票的排名算法：威尔逊区间](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=1&sn=ea4dff492702321a3097ef5a26a47186#wechat_redirect) |
+| 2018-12-21 | [【视频】CRDT如何改进Vue应用程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230761&idx=2&sn=574ec8b04fc683beb2717d04ed31c669#wechat_redirect) |
+| 2018-12-21 | [【第1483期】前端如何去设计架构能力 - 双十二在星巴克消息开放从点到面的思考实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230761&idx=1&sn=55801f5864c3115137b4d2c59bd4e301#wechat_redirect) |
