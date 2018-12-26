@@ -114,3 +114,5 @@
 | 2018-12-24 | [【第1486期】手淘千牛前端消息开放融合 - 双十一在星巴克消息开放项目的思考实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=1&sn=30011d42e6e09cfabcbff461c301e30c#wechat_redirect) |
 | 2018-12-25 | [【英】Creating、filling Arrays of arbitrary lengths in JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=2&sn=f64b8d8dfa37d121a2b8fe4559042964#wechat_redirect) |
 | 2018-12-25 | [【第1487期】Netflix 的 Web 性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect) |
+| 2018-12-26 | [【英】Vue Development In 2019: What You Need To Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect) |
+| 2018-12-26 | [【第1488期】有限状态机在 CSS 动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect) |
