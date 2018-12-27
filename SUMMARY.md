@@ -116,3 +116,5 @@
 | 2018-12-25 | [【第1487期】Netflix 的 Web 性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect) |
 | 2018-12-26 | [【英】Vue Development In 2019: What You Need To Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect) |
 | 2018-12-26 | [【第1488期】有限状态机在 CSS 动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect) |
+| 2018-12-27 | [【英】Web Caching Explained by Buying Milk at the Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect) |
+| 2018-12-27 | [【第1489期】关于JavaScript, NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect) |
