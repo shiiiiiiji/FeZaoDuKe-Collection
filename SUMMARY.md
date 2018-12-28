@@ -118,3 +118,5 @@
 | 2018-12-26 | [【第1488期】有限状态机在 CSS 动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect) |
 | 2018-12-27 | [【英】Web Caching Explained by Buying Milk at the Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect) |
 | 2018-12-27 | [【第1489期】关于JavaScript, NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect) |
+| 2018-12-28 | [【英】19 Tips For Software Engineers In 2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=2&sn=55444e3ed87b868bfe389e5781ed585b#wechat_redirect) |
+| 2018-12-28 | [【第1490期】 HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect) |
