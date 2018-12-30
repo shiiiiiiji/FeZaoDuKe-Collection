@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2018-12-29 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2018-12-30 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【英】Force Download with JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect)
-- [【第1491期】如何编写 Typescript 声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【英】Things I Don’t Know as of 2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=2&sn=db5ea6666ebe2671bd08813317f41f3a#wechat_redirect)
+- [【第1492期】quicklink：实现原理与给前端的启发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=1&sn=918263d7093813f1b9fe4aa79e031d04#wechat_redirect)
 
 
 ## 感谢

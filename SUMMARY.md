@@ -122,3 +122,5 @@
 | 2018-12-28 | [【第1490期】 HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect) |
 | 2018-12-29 | [【英】Force Download with JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect) |
 | 2018-12-29 | [【第1491期】如何编写 Typescript 声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) |
+| 2018-12-30 | [【英】Things I Don’t Know as of 2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=2&sn=db5ea6666ebe2671bd08813317f41f3a#wechat_redirect) |
+| 2018-12-30 | [【第1492期】quicklink：实现原理与给前端的启发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=1&sn=918263d7093813f1b9fe4aa79e031d04#wechat_redirect) |
