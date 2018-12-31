@@ -124,3 +124,5 @@
 | 2018-12-29 | [【第1491期】如何编写 Typescript 声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) |
 | 2018-12-30 | [【英】Things I Don’t Know as of 2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=2&sn=db5ea6666ebe2671bd08813317f41f3a#wechat_redirect) |
 | 2018-12-30 | [【第1492期】quicklink：实现原理与给前端的启发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=1&sn=918263d7093813f1b9fe4aa79e031d04#wechat_redirect) |
+| 2018-12-31 | [【英】Understanding the Virtual DOM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230857&idx=2&sn=c486face675d399984b872be208b5a85#wechat_redirect) |
+| 2018-12-31 | [【第1493期】 React 的今天和明天（图文版）第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230857&idx=1&sn=5b13d8fb7f47b7e43bf0fd2955467350#wechat_redirect) |
