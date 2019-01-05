@@ -133,3 +133,5 @@
 | 2019-01-03 | [【第1495期】 ESLint 工作原理探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=1&sn=092211db96adfc85a26b457f7e9421a0#wechat_redirect) |
 | 2019-01-04 | [【英】How To Put Arrows at the Bottom of a Div](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=2&sn=97bbeebc68b4e80747e4e3898ea5db5d#wechat_redirect) |
 | 2019-01-04 | [【第1497期】React组件文档解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=1&sn=3868eac44ea9166ce2d9defb8bd30bc6#wechat_redirect) |
+| 2019-01-05 | [【英】19 ways to become a better Node.js developer in 2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) |
+| 2019-01-05 | [【第1496期】新手向之Vue.js + Node.js(koa) 合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) |
