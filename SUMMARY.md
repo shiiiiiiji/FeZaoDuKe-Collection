@@ -135,3 +135,5 @@
 | 2019-01-04 | [【第1497期】React组件文档解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=1&sn=3868eac44ea9166ce2d9defb8bd30bc6#wechat_redirect) |
 | 2019-01-05 | [【英】19 ways to become a better Node.js developer in 2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) |
 | 2019-01-05 | [【第1496期】新手向之Vue.js + Node.js(koa) 合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) |
+| 2019-01-06 | [【英】Removing jQuery from GitHub.com frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect) |
+| 2019-01-06 | [【第1498期】webpack loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect) |
