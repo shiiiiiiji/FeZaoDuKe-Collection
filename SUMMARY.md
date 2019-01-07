@@ -137,3 +137,5 @@
 | 2019-01-05 | [【第1496期】新手向之Vue.js + Node.js(koa) 合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) |
 | 2019-01-06 | [【英】Removing jQuery from GitHub.com frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect) |
 | 2019-01-06 | [【第1498期】webpack loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect) |
+| 2019-01-07 | [【英】Microsoft Edge and Chromium Open Source: Our Intent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=2&sn=c24187a0779a53d9e1e54ce4eddede45#wechat_redirect) |
+| 2019-01-07 | [【第1499期】d.ts](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=1&sn=1be9d6c2624502b1a06236849bba0220#wechat_redirect) |
