@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-07 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-01-08 08:00:05，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【英】Microsoft Edge and Chromium Open Source: Our Intent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=2&sn=c24187a0779a53d9e1e54ce4eddede45#wechat_redirect)
-- [【第1499期】d.ts](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=1&sn=1be9d6c2624502b1a06236849bba0220#wechat_redirect)
+- [【英】How To Learn CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230917&idx=2&sn=68d81c71b905ddc53eec6d9e4cc9cd9d#wechat_redirect)
+- [【第1500期】其实你并不懂 Unicode](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230917&idx=1&sn=1b04e269c529dc8023fd410c7124bd65#wechat_redirect)
 
 
 ## 感谢
