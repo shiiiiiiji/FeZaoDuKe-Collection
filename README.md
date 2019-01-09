@@ -2,11 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-08 08:00:05，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-01-09 08:00:06，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【英】How To Learn CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230917&idx=2&sn=68d81c71b905ddc53eec6d9e4cc9cd9d#wechat_redirect)
-- [【第1500期】其实你并不懂 Unicode](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230917&idx=1&sn=1b04e269c529dc8023fd410c7124bd65#wechat_redirect)
+- [【英】Github 宣布 GitHub Free 以及 GitHub Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect)
+- [【第1501期】浏览器往返缓存（Back/Forward cache）问题的分析与解决](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=2&sn=137706ea7af4762a7c6e649617259f82#wechat_redirect)
+- [前端面试对算法要求不高？！我被打脸了......](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=1&sn=fb5c15499e6fc4f3615edb9cab8d7177#wechat_redirect)
 
 
 ## 感谢
