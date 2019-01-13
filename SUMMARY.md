@@ -153,3 +153,5 @@
 | 2019-01-12 | [【英】A guide to color accessibility in product design](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=3&sn=781f83ae87cd14985fb715444230648f#wechat_redirect) |
 | 2019-01-12 | [【招聘】阿里云招P6+前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=2&sn=93f631396a8c05bf5e5a015c41d46146#wechat_redirect) |
 | 2019-01-12 | [【第1504期】送你一份微信小程序 web-view 开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect) |
+| 2019-01-13 | [【英】The 9 big design trends of 2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect) |
+| 2019-01-13 | [【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect) |
