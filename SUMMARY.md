@@ -155,3 +155,5 @@
 | 2019-01-12 | [【第1504期】送你一份微信小程序 web-view 开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect) |
 | 2019-01-13 | [【英】The 9 big design trends of 2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect) |
 | 2019-01-13 | [【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect) |
+| 2019-01-14 | [【英】Computer science in JavaScript 2019: Linked list](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=2&sn=2f4529ec9fc3cfa719505649d397c624#wechat_redirect) |
+| 2019-01-14 | [【第1506期】JavaScript工程项目的一系列最佳实践策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=1&sn=dca208ff5655a9c87b6254e6443b8dd0#wechat_redirect) |
