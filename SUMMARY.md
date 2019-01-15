@@ -157,3 +157,6 @@
 | 2019-01-13 | [【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect) |
 | 2019-01-14 | [【英】Computer science in JavaScript 2019: Linked list](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=2&sn=2f4529ec9fc3cfa719505649d397c624#wechat_redirect) |
 | 2019-01-14 | [【第1506期】JavaScript工程项目的一系列最佳实践策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=1&sn=dca208ff5655a9c87b6254e6443b8dd0#wechat_redirect) |
+| 2019-01-15 | [【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) |
+| 2019-01-15 | [【第1507期】从 loading 的 9 种写法谈 React 业务开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=2&sn=fa765c7b849b2290877052edb4c41eb1#wechat_redirect) |
+| 2019-01-15 | [前淘宝前端leader：2019年，前端应该怎么学？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=1&sn=030a202f3e75f686e1033b4a8aeabe37#wechat_redirect) |
