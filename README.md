@@ -2,12 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-16 08:00:04，:rocket: 更新条数: +3
+:alarm_clock: 本次内容更新时间: 2019-01-17 08:00:05，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【招聘】饿了么B端前端团队招资深前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=3&sn=a1d230feb6236c4815fb35a9f0a6dff6#wechat_redirect)
-- [【第1508期】深入浅出 Javascript Decorators 和 AOP 编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=2&sn=9db6bf8444244966bbc9d1a6228e7f5c#wechat_redirect)
-- [【在线分享】活动运营可视化生成器专题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=1&sn=31990aa2b0dfbf55510af0ddf2c6f190#wechat_redirect)
+- [【英】Motion Design Doesn’t Have to be Hard](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=3&sn=9a3e2876224a9eb2825696377bdacc23#wechat_redirect)
+- [【招聘】上海vipJr / TutorABC招聘高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=2&sn=5a46a81b862a148318ae5ecba23fbb35#wechat_redirect)
+- [【第1509期】阿里imgcook 体验版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=1&sn=6b33a1bdd16f62df354acdf51cb300f2#wechat_redirect)
 
 
 ## 感谢
