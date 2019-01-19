@@ -2,12 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-18 08:00:05，:rocket: 更新条数: +3
+:alarm_clock: 本次内容更新时间: 2019-01-19 08:00:05，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【英】A UX Guide For Designing Error Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect)
-- [【第1510期】动效不该难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=1&sn=51276eaae655b31e6e78fa5ae2094810#wechat_redirect)
-- [【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect)
+- [【招聘】北京水滴互助招聘中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=2&sn=06c7600cf3de18977eaf985770887a06#wechat_redirect)
+- [【第1511期】在 Babel 中支持 TC39 标准的装饰器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=1&sn=c9ae885edf54b015e2072793391f1947#wechat_redirect)
 
 
 ## 感谢
