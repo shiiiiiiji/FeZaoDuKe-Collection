@@ -2,11 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-19 08:00:05，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-01-21 08:00:04，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【招聘】北京水滴互助招聘中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=2&sn=06c7600cf3de18977eaf985770887a06#wechat_redirect)
-- [【第1511期】在 Babel 中支持 TC39 标准的装饰器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=1&sn=c9ae885edf54b015e2072793391f1947#wechat_redirect)
+- [【招聘】深信服科技招40名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=3&sn=e471a7411446efc569db584673753f21#wechat_redirect)
+- [2018 掘金年度回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=2&sn=886932b5c32fd2b0c416d71fd857a23c#wechat_redirect)
+- [【第1512期】 世界是平的吗？——从不同角度看前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=1&sn=44e15a7829532b1e7c512a26ea1d7523#wechat_redirect)
 
 
 ## 感谢
