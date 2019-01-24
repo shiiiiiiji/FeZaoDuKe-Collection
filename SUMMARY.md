@@ -179,3 +179,6 @@
 | 2019-01-22 | [3分钟打开Web 3D图形学的大门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=1&sn=629df84a6b83bc426f7a23cf438cf60b#wechat_redirect) |
 | 2019-01-23 | [【招聘】上海HYPERS 前端团队招3～5名前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=2&sn=276a1fbcc513f7c9abb1c625253c3248#wechat_redirect) |
 | 2019-01-23 | [【第1514期】2018年 JavaScript 明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=1&sn=9c6a7c73eb8f0930a10cb925a76bcab2#wechat_redirect) |
+| 2019-01-24 | [【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect) |
+| 2019-01-24 | [【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect) |
+| 2019-01-24 | [【第1515期】让我们在2019年重新认识 Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) |

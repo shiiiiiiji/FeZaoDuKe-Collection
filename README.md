@@ -2,11 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-23 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-01-24 08:00:05，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【招聘】上海HYPERS 前端团队招3～5名前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=2&sn=276a1fbcc513f7c9abb1c625253c3248#wechat_redirect)
-- [【第1514期】2018年 JavaScript 明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=1&sn=9c6a7c73eb8f0930a10cb925a76bcab2#wechat_redirect)
+- [【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect)
+- [【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
+- [【第1515期】让我们在2019年重新认识 Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 
 
 ## 感谢
