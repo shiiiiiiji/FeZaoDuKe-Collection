@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-01-25 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-01-26 08:00:05，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect)
-- [【第1516期】Ant Design 情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect)
+- [【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect)
+- [【第1517期】给2019前端的5个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=1&sn=607f14a97d9d5aa45ce7e0c16db1718a#wechat_redirect)
 
 
 ## 感谢

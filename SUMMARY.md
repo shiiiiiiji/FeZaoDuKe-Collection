@@ -184,3 +184,5 @@
 | 2019-01-24 | [【第1515期】让我们在2019年重新认识 Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) |
 | 2019-01-25 | [【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect) |
 | 2019-01-25 | [【第1516期】Ant Design 情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect) |
+| 2019-01-26 | [【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect) |
+| 2019-01-26 | [【第1517期】给2019前端的5个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=1&sn=607f14a97d9d5aa45ce7e0c16db1718a#wechat_redirect) |
