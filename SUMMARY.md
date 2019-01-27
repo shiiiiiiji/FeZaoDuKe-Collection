@@ -186,3 +186,5 @@
 | 2019-01-25 | [【第1516期】Ant Design 情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect) |
 | 2019-01-26 | [【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect) |
 | 2019-01-26 | [【第1517期】给2019前端的5个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=1&sn=607f14a97d9d5aa45ce7e0c16db1718a#wechat_redirect) |
+| 2019-01-27 | [【招聘】阿里lazada深圳团队招P5～7前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=2&sn=a220bc2acfae5590bb240266a468a252#wechat_redirect) |
+| 2019-01-27 | [【第1518期】2019 前端性能优化年度总结 — 第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect) |
