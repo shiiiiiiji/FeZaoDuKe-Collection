@@ -196,3 +196,4 @@
 | 2019-01-30 | [【微信小游戏】财神养成记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=2&sn=cf50fbcfb9cabd0b69f1a96cdcee96b7#wechat_redirect) |
 | 2019-01-30 | [【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect) |
 | 2019-02-05 | [【第1522期】Vue 2.6 发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) |
+| 2019-02-07 | [【英】React v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) |
