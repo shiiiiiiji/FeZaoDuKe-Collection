@@ -214,3 +214,6 @@
 | 2019-02-17 | [【英】React 16.x 路线图](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=3&sn=48a224f8fd1c0930c0f4bcd4790ea9ae#wechat_redirect) |
 | 2019-02-17 | [【招聘】上海抖音招前端／前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=2&sn=1611cdfedcf9a386edcebc7cbe8f9dc9#wechat_redirect) |
 | 2019-02-17 | [【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect) |
+| 2019-02-18 | [【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect) |
+| 2019-02-18 | [【英】我是一个平庸的开发人员](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=2&sn=e0eb50d8c254a1ef8d8bf929483a10ca#wechat_redirect) |
+| 2019-02-18 | [【第1530期】React Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect) |
