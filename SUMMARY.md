@@ -227,3 +227,5 @@
 | 2019-02-22 | [【第1533期】Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=1&sn=6558c5aa161719de0d569c9f73a75576#wechat_redirect) |
 | 2019-02-22 | [【招聘】中移在线服务有限公司招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=2&sn=75db3677f12223ffd1bb92a3d3f68838#wechat_redirect) |
 | 2019-02-22 | [【第1534期】为什么 'XX' 不是一个 Hooks API?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=1&sn=079dd5731cd8c7a0f0873da54ddc17b4#wechat_redirect) |
+| 2019-02-23 | [【招聘】杭州蚂蚁金服mPaaS团队招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=2&sn=bbdde817477b76e673b02e9a088cd82a#wechat_redirect) |
+| 2019-02-23 | [【第1535期】前端 Form 的表单的一个通用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=1&sn=c322b29293b40442430f5c29b15306ac#wechat_redirect) |
