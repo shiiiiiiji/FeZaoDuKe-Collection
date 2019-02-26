@@ -231,3 +231,5 @@
 | 2019-02-23 | [【第1535期】前端 Form 的表单的一个通用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=1&sn=c322b29293b40442430f5c29b15306ac#wechat_redirect) |
 | 2019-02-24 | [【第1536期】Webpack 打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231515&idx=1&sn=55cd553fd9dcd5302916360a457eebe6#wechat_redirect) |
 | 2019-02-25 | [【第1537期】Fusion Next 之 Upload 上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect) |
+| 2019-02-26 | [【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect) |
+| 2019-02-26 | [【第1538期】聊聊前端国际化文案该如何处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=1&sn=b2c7d1ea76de011d564f17653d28b914#wechat_redirect) |
