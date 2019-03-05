@@ -2,12 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-04 16:00:04，:rocket: 更新条数: +3
+:alarm_clock: 本次内容更新时间: 2019-03-05 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect)
-- [【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect)
-- [为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect)
+- [【招聘】阿里搜索推荐事业部移动端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=2&sn=896075c645218bda40da1044015202ef#wechat_redirect)
+- [【第1545期】在淘宝做前端的这三年 — 第二年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=1&sn=4c3639484d0304335ee7db3ce9234315#wechat_redirect)
 
 
 ## 感谢
