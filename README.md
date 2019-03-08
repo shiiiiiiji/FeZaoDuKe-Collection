@@ -2,12 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-07 08:00:04，:rocket: 更新条数: +3
+:alarm_clock: 本次内容更新时间: 2019-03-08 08:00:05，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【图书】重构：改善既有代码的设计（第2版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=3&sn=e9bcf8137a5abeca8979adf00e153b18#wechat_redirect)
-- [【招聘】上海拼多多招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=2&sn=da459dd648eb5ed99c7e285bb8710089#wechat_redirect)
-- [【第1547期】CSS 继承深度解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=1&sn=907438986a3a1801e953c8c9d3bdad64#wechat_redirect)
+- [【招聘】广州欢聚时代招高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=2&sn=673dfe336cb138f562328bcae9c85b8b#wechat_redirect)
+- [【第1548期】在淘宝做前端的这三年 — 第三年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=1&sn=9ff637f27b9d135c096cb2c8b859e608#wechat_redirect)
 
 
 ## 感谢
