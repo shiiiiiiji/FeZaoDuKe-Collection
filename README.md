@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-10 08:30:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-03-11 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【招聘】北京58同城金融事业部招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=2&sn=86b5380e8aa5d452974d9ddb1def5acf#rd)
-- [【第1550期】前端专业方向的尽头](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=1&sn=9ee751533b3461ec5648bb24a40b90d1#rd)
+- [【招聘】北京转转招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=2&sn=01e3c2709c60693b369d76c875d719bf#rd)
+- [【第1551期】编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=1&sn=a14ce01550f3a589855b499a52100c38#rd)
 
 
 ## 感谢

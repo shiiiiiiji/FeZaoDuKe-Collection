@@ -263,3 +263,5 @@
 | 2019-03-09 | [【第1549期】中国菜刀之写一句话木马变形](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231646&idx=1&sn=baa2efd58e67b862a358adea22f07086#rd) |
 | 2019-03-10 | [【招聘】北京58同城金融事业部招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=2&sn=86b5380e8aa5d452974d9ddb1def5acf#rd) |
 | 2019-03-10 | [【第1550期】前端专业方向的尽头](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=1&sn=9ee751533b3461ec5648bb24a40b90d1#rd) |
+| 2019-03-11 | [【招聘】北京转转招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=2&sn=01e3c2709c60693b369d76c875d719bf#rd) |
+| 2019-03-11 | [【第1551期】编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=1&sn=a14ce01550f3a589855b499a52100c38#rd) |
