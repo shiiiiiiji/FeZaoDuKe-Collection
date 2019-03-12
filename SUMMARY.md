@@ -265,3 +265,6 @@
 | 2019-03-10 | [【第1550期】前端专业方向的尽头](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=1&sn=9ee751533b3461ec5648bb24a40b90d1#rd) |
 | 2019-03-11 | [【招聘】北京转转招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=2&sn=01e3c2709c60693b369d76c875d719bf#rd) |
 | 2019-03-11 | [【第1551期】编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=1&sn=a14ce01550f3a589855b499a52100c38#rd) |
+| 2019-03-12 | [【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd) |
+| 2019-03-12 | [一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd) |
+| 2019-03-12 | [【第1552期】深入React fiber 链表和DFS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=1&sn=5091173df24a383c93095e40a3f3bd26#rd) |
