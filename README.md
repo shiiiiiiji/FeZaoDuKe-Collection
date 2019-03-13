@@ -2,12 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-12 08:00:04，:rocket: 更新条数: +3
+:alarm_clock: 本次内容更新时间: 2019-03-13 16:00:05，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd)
-- [一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd)
-- [【第1552期】深入React fiber 链表和DFS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=1&sn=5091173df24a383c93095e40a3f3bd26#rd)
+- [京东开源Vue移动端组件库NutUI2.0发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=3&sn=3e246d33b909a997b57dfe4582b055ea#rd)
+- [【招聘】深圳联新移动医疗招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=2&sn=968726a99fc690ae1454b5691ce9f525#rd)
+- [【第1553期】 TypeScript 和 Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 
 
 ## 感谢
