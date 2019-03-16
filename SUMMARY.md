@@ -277,3 +277,5 @@
 | 2019-03-15 | [【招聘】北京美菜前端团队需要你！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=3&sn=7a7c2648a39c85b8144b1e39a3900271#rd) |
 | 2019-03-15 | [【第1555期】Web渲染概述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=2&sn=23f819f66e94b9e052c0da9be157a729#rd) |
 | 2019-03-15 | [前端工程师3月面试技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=1&sn=eee6f4372ef581a02a2584a36675ffc7#rd) |
+| 2019-03-16 | [【招聘】阿里上海研发中心招数据科学产品Web前端实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=2&sn=bbd8151c6388f5a46efe8cbe7017805d#rd) |
+| 2019-03-16 | [【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd) |
