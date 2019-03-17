@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-16 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-03-17 16:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【招聘】阿里上海研发中心招数据科学产品Web前端实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=2&sn=bbd8151c6388f5a46efe8cbe7017805d#rd)
-- [【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd)
+- [【招聘】广州数字广东招聘前端开发（腾讯投资）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=2&sn=a0bd8292a810e0fa63c5afd7873aeb99#rd)
+- [【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd)
 
 
 ## 感谢
