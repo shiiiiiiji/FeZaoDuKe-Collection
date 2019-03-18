@@ -281,3 +281,5 @@
 | 2019-03-16 | [【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd) |
 | 2019-03-17 | [【招聘】广州数字广东招聘前端开发（腾讯投资）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=2&sn=a0bd8292a810e0fa63c5afd7873aeb99#rd) |
 | 2019-03-17 | [【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd) |
+| 2019-03-18 | [【招聘】 北京Conflux招前端负责人&资深前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231754&idx=2&sn=fca18fb8a5095acb320f007fb2015f5b#rd) |
+| 2019-03-18 | [【第1558期】ES5 to ESNext —  自 2015 以来 JavaScript 新增的所有新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666#rd) |
