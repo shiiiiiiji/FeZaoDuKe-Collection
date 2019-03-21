@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-03-20 08:00:05，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-03-21 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd)
-- [【第1560期】前端同构渲染的思考与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=1&sn=df3f56cadf67a37c07f4fab5d3a858c3#rd)
+- [【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)
+- [前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=1&sn=ad514bad93654f8dfcf513e5ccd3e53f#rd)
 
 
 ## 感谢
