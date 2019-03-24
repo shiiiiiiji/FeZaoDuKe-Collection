@@ -294,3 +294,5 @@
 | 2019-03-22 | [【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd) |
 | 2019-03-23 | [【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) |
 | 2019-03-23 | [【第1563期】缓存最佳实践 & max-age的陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=1&sn=6fd4c3f8511ca2e0ddd521d27fab67d6#rd) |
+| 2019-03-24 | [【图书】深入浅出Vue.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=2&sn=1e154a51a13111cbe0bc31d93fef9b4a#rd) |
+| 2019-03-24 | [【第1564期】Vue构建工具的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=1&sn=8a68653093aa7c7f738165fd2b150f04#rd) |
