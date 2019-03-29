@@ -305,3 +305,5 @@
 | 2019-03-27 | [【英】深入研究新的Vue Devtools V5.0](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=2&sn=b9ee411b36d66b842f46614b7212ed8f#rd) |
 | 2019-03-28 | [【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd) |
 | 2019-03-28 | [【第1568期】CSS 火焰](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=1&sn=2c585c3a4888828fd1676a16cfaf8111#rd) |
+| 2019-03-29 | [【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd) |
+| 2019-03-29 | [【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd) |
