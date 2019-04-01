@@ -309,3 +309,4 @@
 | 2019-03-29 | [【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd) |
 | 2019-03-30 | [【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd) |
 | 2019-03-31 | [【第1571期】从 React 源代码看 keyPress 与 keyDown 事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd) |
+| 2019-04-01 | [【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) |
