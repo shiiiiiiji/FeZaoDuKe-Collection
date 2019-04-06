@@ -2,10 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-04-05 08:00:04，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2019-04-06 08:00:05，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【视频】CSS生成艺术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231947&idx=1&sn=0178ef945adc605cf7e72be4a65a13ea#rd)
+- [【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)
+- [【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)
 
 
 ## 感谢
