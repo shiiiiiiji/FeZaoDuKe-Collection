@@ -325,3 +325,6 @@
 | 2019-04-08 | [【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd) |
 | 2019-04-09 | [【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd) |
 | 2019-04-09 | [【活动】2019freeCodeCamp 前端技术交流会杭州站](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=2&sn=b8b160c818719c9fdb24db6e98686dd8#rd) |
+| 2019-04-10 | [【视频】CSS TIME](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=3&sn=55f4c00920bfc78b6a34329dcceceb27#rd) |
+| 2019-04-10 | [【第1578期】在阿里云做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=1&sn=22681c82797a726255308a60f582fdef#rd) |
+| 2019-04-10 | [【招聘】资深前端面试官的建议，助你走进阿里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=2&sn=3603a11a8df063806bbe727951d7b2fa#rd) |

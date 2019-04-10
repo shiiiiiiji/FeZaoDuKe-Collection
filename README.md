@@ -2,11 +2,12 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-04-09 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-04-10 08:00:04，:rocket: 更新条数: +3
 
 ## 更新内容
-- [【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd)
-- [【活动】2019freeCodeCamp 前端技术交流会杭州站](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=2&sn=b8b160c818719c9fdb24db6e98686dd8#rd)
+- [【视频】CSS TIME](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=3&sn=55f4c00920bfc78b6a34329dcceceb27#rd)
+- [【第1578期】在阿里云做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=1&sn=22681c82797a726255308a60f582fdef#rd)
+- [【招聘】资深前端面试官的建议，助你走进阿里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=2&sn=3603a11a8df063806bbe727951d7b2fa#rd)
 
 
 ## 感谢
