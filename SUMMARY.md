@@ -330,3 +330,5 @@
 | 2019-04-10 | [【招聘】资深前端面试官的建议，助你走进阿里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=2&sn=3603a11a8df063806bbe727951d7b2fa#rd) |
 | 2019-04-11 | [【视频】你不知道的五个 CSS 新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=2&sn=b715a678a31eb269834e5b3d78bf900a#rd) |
 | 2019-04-11 | [【第1579期】十个案例学会 React Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd) |
+| 2019-04-12 | [【3.29】W3C Web 中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd) |
+| 2019-04-12 | [【第1580期】rrweb：打开 web 页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd) |
