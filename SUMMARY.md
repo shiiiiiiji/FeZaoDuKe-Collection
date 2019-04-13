@@ -332,3 +332,4 @@
 | 2019-04-11 | [【第1579期】十个案例学会 React Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd) |
 | 2019-04-12 | [【3.29】W3C Web 中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd) |
 | 2019-04-12 | [【第1580期】rrweb：打开 web 页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd) |
+| 2019-04-13 | [【第1581期】 2019 React Redux 完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd) |
