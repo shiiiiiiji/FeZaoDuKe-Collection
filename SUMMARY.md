@@ -337,3 +337,5 @@
 | 2019-04-14 | [【第1582期】为什么 Node 是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) |
 | 2019-04-15 | [【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd) |
 | 2019-04-15 | [【第1583期】 Airbnb 的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd) |
+| 2019-04-16 | [【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd) |
+| 2019-04-16 | [从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd) |
