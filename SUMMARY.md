@@ -339,3 +339,5 @@
 | 2019-04-15 | [【第1583期】 Airbnb 的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd) |
 | 2019-04-16 | [【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd) |
 | 2019-04-16 | [从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd) |
+| 2019-04-17 | [【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd) |
+| 2019-04-17 | [【第1585期】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=1&sn=bcacd50da50476341e765f2c934e8b8e#rd) |
