@@ -2,10 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-04-21 08:00:04，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2019-04-22 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1589期】图解 Map、Reduce 和 Filter 数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd)
+- [【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd)
+- [【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
 
 
 ## 感谢

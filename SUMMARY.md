@@ -347,3 +347,5 @@
 | 2019-04-20 | [【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd) |
 | 2019-04-20 | [【第1588期】彻底终结 Javascript 背后的隐式类型转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=1&sn=e53c1aeefee5e691616f2f3fc80992a6#rd) |
 | 2019-04-21 | [【第1589期】图解 Map、Reduce 和 Filter 数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd) |
+| 2019-04-22 | [【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd) |
+| 2019-04-22 | [【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd) |
