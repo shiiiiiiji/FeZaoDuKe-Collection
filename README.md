@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-04-24 08:30:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-04-25 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1592期】ts2php, 将你的 TypeScript 代码转换为 PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
-- [成为高级前端，你还缺什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=1&sn=9578e1cf8032fe4fd9135f13f1c05061#rd)
+- [【招聘】上海美团点评点餐终端团队招资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=2&sn=3d5a2efee60758c50a2a2d0c92007838#rd)
+- [【第1593期】TypeScript - 一种思维方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=1&sn=6e22f1a84d33f34eafd07ca6521d108b#rd)
 
 
 ## 感谢

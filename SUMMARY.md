@@ -353,3 +353,5 @@
 | 2019-04-23 | [你可能想不到，限制你职业发展的瓶颈，就是基础知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232083&idx=1&sn=eb57b10eb590683de7d2135fa7158e45#rd) |
 | 2019-04-24 | [【第1592期】ts2php, 将你的 TypeScript 代码转换为 PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) |
 | 2019-04-24 | [成为高级前端，你还缺什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=1&sn=9578e1cf8032fe4fd9135f13f1c05061#rd) |
+| 2019-04-25 | [【招聘】上海美团点评点餐终端团队招资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=2&sn=3d5a2efee60758c50a2a2d0c92007838#rd) |
+| 2019-04-25 | [【第1593期】TypeScript - 一种思维方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=1&sn=6e22f1a84d33f34eafd07ca6521d108b#rd) |
