@@ -357,3 +357,4 @@
 | 2019-04-25 | [【第1593期】TypeScript - 一种思维方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=1&sn=6e22f1a84d33f34eafd07ca6521d108b#rd) |
 | 2019-04-26 | [【英】你的下一个职业目标:跳出你的舒适区](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=2&sn=149605f7f15d1da6962ad4e932d0f9fb#rd) |
 | 2019-04-26 | [【第1594期】从表单抽象到表单中台](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=1&sn=4654fbce98c445f7a44a0fbd6a1e32ac#rd) |
+| 2019-04-27 | [【第1595期】可能是最被误用的 HTTP 响应头之一 Cache-Control: must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd) |
