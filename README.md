@@ -2,10 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-04-28 08:00:04，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2019-04-29 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1596期】CSS 自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd)
+- [【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)
+- [【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd)
 
 
 ## 感谢

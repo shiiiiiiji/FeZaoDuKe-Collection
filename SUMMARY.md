@@ -359,3 +359,5 @@
 | 2019-04-26 | [【第1594期】从表单抽象到表单中台](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=1&sn=4654fbce98c445f7a44a0fbd6a1e32ac#rd) |
 | 2019-04-27 | [【第1595期】可能是最被误用的 HTTP 响应头之一 Cache-Control: must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd) |
 | 2019-04-28 | [【第1596期】CSS 自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd) |
+| 2019-04-29 | [【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd) |
+| 2019-04-29 | [【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd) |
