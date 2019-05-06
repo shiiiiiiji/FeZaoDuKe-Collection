@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-05-05 08:30:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-05-06 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1600期】如何学习 CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=2&sn=d58a29039a17982fa1ff87d20006ea7e#rd)
-- [不会React ？那不好意思你被 pass 了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd)
+- [【招聘】北京好未来-大海1对1在线教育招前端高级、架构师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232172&idx=2&sn=fe764ebd77ace80f5ed1e95ba8490756#rd)
+- [【第1601期】JavaScript函数的6个基本术语](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232172&idx=1&sn=f3c3938a3f28345507ebeac45f5360b2#rd)
 
 
 ## 感谢
