@@ -2,10 +2,10 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-05-18 08:00:04，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2019-05-19 08:00:04，:rocket: 更新条数: +1
 
 ## 更新内容
-- [【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)
+- [【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)
 
 
 ## 感谢
