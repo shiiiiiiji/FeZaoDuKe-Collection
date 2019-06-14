@@ -413,3 +413,5 @@
 | 2019-06-12 | [【第1637期】尤雨溪：Vue Function-based API RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd) |
 | 2019-06-13 | [【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd) |
 | 2019-06-13 | [前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd) |
+| 2019-06-14 | [【第1639期】如何使用 JSDoc 保证你的 Javascript 类型安全性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=2&sn=f3b5abed35075c078002493ea555d667#rd) |
+| 2019-06-14 | [【活动】2019厦门大前端技术沙龙开始报名啦～](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=1&sn=b2193e4bffcac23c8e399b4ef6bc18d8#rd) |
