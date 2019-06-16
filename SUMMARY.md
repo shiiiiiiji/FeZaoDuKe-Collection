@@ -417,3 +417,4 @@
 | 2019-06-14 | [【活动】2019厦门大前端技术沙龙开始报名啦～](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=1&sn=b2193e4bffcac23c8e399b4ef6bc18d8#rd) |
 | 2019-06-15 | [【视频】Vue Beyond Vue Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd) |
 | 2019-06-15 | [【第1640期】Taro 1.3 震撼升级：全面支持 JSX 语法和 HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd) |
+| 2019-06-16 | [【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232588&idx=1&sn=4c5f38120d3626d2dd5d766769f140be#rd) |
