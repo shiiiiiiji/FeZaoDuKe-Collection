@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-06-17 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-06-18 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【视频】Intro to VuePress 1.x](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=2&sn=eba0487babdb768b0cffa9fa8cb2a157#rd)
-- [【第1642期】Vue组件库工程探索与实践之按需加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=1&sn=48c479da96139a63cc3f8e934fda8205#rd)
+- [【第1643期】自定义错误及扩展错误](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232599&idx=1&sn=19d13fdf7faf2475d80fc4a895f87ff6#rd)
+- [【视频】使用Vue实现0代码交互](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232599&idx=2&sn=84c7d1babdd9f4a04f7aba54848079a0#rd)
 
 
 ## 感谢
