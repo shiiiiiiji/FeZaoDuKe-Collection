@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-06-25 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-06-26 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1649期】 微信小程序渲染性能调优](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232791&idx=1&sn=4b83b66d376b1331a992d242cb2a0f17#rd)
-- [【招聘】阿里钉钉招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232791&idx=2&sn=a92f75c393a9be33acb97d5c13706cbc#rd)
+- [【第1650期】使用 Media Query 检测设备 Reduced Motion 设置](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=1&sn=e8374615ebd03af6d40ee2cf360ba14a#rd)
+- [【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd)
 
 
 ## 感谢

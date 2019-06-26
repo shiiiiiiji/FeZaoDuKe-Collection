@@ -434,3 +434,5 @@
 | 2019-06-24 | [2019年最火的前端教程，看完弄懂，工资少说加5K](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232784&idx=1&sn=0f8da0b6d310d814716ee2ec75b84f70#rd) |
 | 2019-06-25 | [【第1649期】 微信小程序渲染性能调优](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232791&idx=1&sn=4b83b66d376b1331a992d242cb2a0f17#rd) |
 | 2019-06-25 | [【招聘】阿里钉钉招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232791&idx=2&sn=a92f75c393a9be33acb97d5c13706cbc#rd) |
+| 2019-06-26 | [【第1650期】使用 Media Query 检测设备 Reduced Motion 设置](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=1&sn=e8374615ebd03af6d40ee2cf360ba14a#rd) |
+| 2019-06-26 | [【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) |
