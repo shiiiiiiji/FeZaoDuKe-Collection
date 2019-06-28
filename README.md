@@ -2,11 +2,10 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-06-27 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-06-28 08:00:03，:rocket: 更新条数: +1
 
 ## 更新内容
-- [【第1651期】如何分析 Node.js 中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd)
-- [【活动】小游戏开发专场@2019厦门大前端技术沙龙之](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=1&sn=b59350089ad0b5614d03dc5a2285895d#rd)
+- [【第1652期】编写更好的 JavaScript 条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd)
 
 
 ## 感谢

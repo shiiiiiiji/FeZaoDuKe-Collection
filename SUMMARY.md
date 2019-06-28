@@ -438,3 +438,4 @@
 | 2019-06-26 | [【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) |
 | 2019-06-27 | [【第1651期】如何分析 Node.js 中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) |
 | 2019-06-27 | [【活动】小游戏开发专场@2019厦门大前端技术沙龙之](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=1&sn=b59350089ad0b5614d03dc5a2285895d#rd) |
+| 2019-06-28 | [【第1652期】编写更好的 JavaScript 条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd) |
