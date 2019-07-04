@@ -447,3 +447,4 @@
 | 2019-07-02 | [一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd) |
 | 2019-07-03 | [【招聘】厦门暖兔科技招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232892&idx=2&sn=a9cd83d3fb7db90830f6357c9a6205b5#rd) |
 | 2019-07-03 | [【第1657期】使用 Jest 和 Enzyme 测试 React 组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232892&idx=1&sn=05906f2772ea11cd0a6c8acf1f81ff44#rd) |
+| 2019-07-04 | [【第1658期】 Chrome 专家调试法 - 介绍 Chrome 开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232948&idx=1&sn=c578786806d20e185503abc3d85561c5#rd) |
