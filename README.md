@@ -2,10 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-07-04 08:00:05，:rocket: 更新条数: +1
+:alarm_clock: 本次内容更新时间: 2019-07-05 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【第1658期】 Chrome 专家调试法 - 介绍 Chrome 开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232948&idx=1&sn=c578786806d20e185503abc3d85561c5#rd)
+- [【第1659期】 垃圾回收](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=2&sn=66780a65a4b940788336573074a8dd78#rd)
+- [同样是工作4年，但能力却相差很大，差距是怎么拉开的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=1&sn=b6322fa3c1b7fd603a0635f76f7e4953#rd)
 
 
 ## 感谢
