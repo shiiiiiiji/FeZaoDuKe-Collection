@@ -452,3 +452,5 @@
 | 2019-07-05 | [同样是工作4年，但能力却相差很大，差距是怎么拉开的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=1&sn=b6322fa3c1b7fd603a0635f76f7e4953#rd) |
 | 2019-07-06 | [【招聘】用友云平台大前端团队急聘前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=2&sn=376bb77915b89fa87506d0b8a86a15c1#rd) |
 | 2019-07-06 | [【第1660期】 Diff ECMAScript® 2019](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=1&sn=0c934404ecdcfa8a4fb93be51117de10#rd) |
+| 2019-07-07 | [【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd) |
+| 2019-07-07 | [【第1661期】 Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) |
