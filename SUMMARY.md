@@ -454,3 +454,5 @@
 | 2019-07-06 | [【第1660期】 Diff ECMAScript® 2019](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=1&sn=0c934404ecdcfa8a4fb93be51117de10#rd) |
 | 2019-07-07 | [【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd) |
 | 2019-07-07 | [【第1661期】 Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) |
+| 2019-07-08 | [最近，前端又火了哪些技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=1&sn=5812d6fc476e9d3dc6f0f07e4011c046#rd) |
+| 2019-07-08 | [【第1662期】编写有弹性的组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=2&sn=478ad570ca669df68d40fa8e29664b40#rd) |
