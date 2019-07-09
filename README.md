@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-07-08 10:30:07，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-07-09 08:00:04，:rocket: 更新条数: +2
 
 ## 更新内容
-- [最近，前端又火了哪些技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=1&sn=5812d6fc476e9d3dc6f0f07e4011c046#rd)
-- [【第1662期】编写有弹性的组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=2&sn=478ad570ca669df68d40fa8e29664b40#rd)
+- [【招聘】北京Ptmind招资深 Web 前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233006&idx=2&sn=d8c227077c53b15dcffdeea306551ff9#rd)
+- [【第1663期】使用 React Hooks 重构你的小程序](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233006&idx=1&sn=078aea41aec486d3c3cc79e0aa2d7597#rd)
 
 
 ## 感谢
