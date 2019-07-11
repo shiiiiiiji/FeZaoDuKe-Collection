@@ -2,11 +2,11 @@
 
 前端早读课文章自动抓取2.0，根据即刻主题[公众号“前端早读课”更新提醒](https://web.okjike.com/topic/5848cace8a16f9001084a79d/official)自动抓取 **每天推送** 文章链接，并汇总至[文章汇总](./SUMMARY.md)，之前文章在[历史文章](./HISTORY.md)。自动更新时间点为每天的 08:00、08:30、10:30、18:00、22:00。（因“即刻”接口获取与微信推送时间存在差异）
 
-:alarm_clock: 本次内容更新时间: 2019-07-10 08:00:04，:rocket: 更新条数: +2
+:alarm_clock: 本次内容更新时间: 2019-07-11 08:00:03，:rocket: 更新条数: +2
 
 ## 更新内容
-- [【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd)
-- [【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd)
+- [【第1665期】 精读《Monorepo 的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd)
+- [1年时间，年薪增加10万，前端小兵的我是如何做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=1&sn=6087aa0986c9162fe6aaaa1933f7da33#rd)
 
 
 ## 感谢
