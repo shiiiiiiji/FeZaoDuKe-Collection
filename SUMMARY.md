@@ -462,3 +462,5 @@
 | 2019-07-10 | [【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd) |
 | 2019-07-11 | [【第1665期】 精读《Monorepo 的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd) |
 | 2019-07-11 | [1年时间，年薪增加10万，前端小兵的我是如何做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=1&sn=6087aa0986c9162fe6aaaa1933f7da33#rd) |
+| 2019-07-12 | [【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) |
+| 2019-07-12 | [【第1666期】2019年JavaScript性能开销](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=1&sn=58487317958644a980807d19afe3cdf0#rd) |
